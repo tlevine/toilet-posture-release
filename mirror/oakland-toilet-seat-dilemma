@@ -1,0 +1,5389 @@
+<!DOCTYPE HTML>
+
+<!--[if lt IE 7 ]> <html xmlns:fb="http://www.facebook.com/2008/fbml" class="ie6 ie ltie9 ltie8 no-js" lang="en"> <![endif]-->
+<!--[if IE 7 ]>    <html xmlns:fb="http://www.facebook.com/2008/fbml" class="ie7 ie ltie9 ltie8 no-js" lang="en"> <![endif]-->
+<!--[if IE 8 ]>    <html xmlns:fb="http://www.facebook.com/2008/fbml" class="ie8 ie ltie9 no-js" lang="en"> <![endif]-->
+<!--[if IE 9 ]>    <html xmlns:fb="http://www.facebook.com/2008/fbml" class="ie9 ie no-js" lang="en"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html xmlns:fb="http://www.facebook.com/2008/fbml" class="no-js" lang="en"> <!--<![endif]-->
+	<head>
+		<meta http-equiv="X-UA-Compatible" content="chrome=1">
+
+		
+<script type="text/javascript">
+window.onerror=(function(){var b=function(d){return function(){var e;if(Array.prototype.toJSON){e=Array.prototype.toJSON;delete Array.prototype.toJSON}d.apply(this,arguments);if(e){Array.prototype.toJSON=e}}};var c=function(){for(var d=0;d<arguments.length;d++){if(arguments[d]!==undefined){return arguments[d]}}};var a=function(t,d,h){var f=window.event||{};var j=f.timeStamp||new Date().getTime();var r=c(window.location.href,null);var p=c(document.referrer,null);var i=null;d=c(f.filename,d,null);h=c(f.lineno,h,null);
+var s=function(v){try{var u;if(v&&v.nodeName&&v.nodeType&&v.nodeType===1){u=["<",v.nodeName.toLowerCase()];if(v.id){u.push(" id="+v.id)}if(v.className){u.push(" class="+v.className)}u.push(">");return u.join("")}}catch(w){return"(access denied)"}try{JSON.stringify(v);return v}catch(w){return"(cannot stringify)"}};var m=function(x){var v={};try{for(var u in x){v[u]=s(x[u])}}catch(w){return"Iteration on the message object failed: "+w}v.__toString=Object.prototype.toString.call(x);return v};var g=true;
+try{g=(t instanceof String||typeof t==="string")}catch(n){t="Couldn't determine the type of message received. Reason: "+n}var q=function(u,e){return u.slice(0,e.length)===e};if(g){var l=(q(t,"uncaught exception: CustomError: Error in protected function:")||q(t,"CustomError: Error in protected function:")||(d===""&&h===0&&t==="Script error."));if(l){return}}else{try{i=m(t)}catch(n){i="Message dump failed. Reason: "+n}t="Caught a non-string message."}var o=new XMLHttpRequest();var k={errors:[{context:["Exception in un-protected function"],date:new Date(j).toGMTString(),load_secs:-1,message:t,extra:i,ready_state:document.readyState,lineNumber:h,fileName:d}],location:r,referrer:p};
+k=JSON.stringify(k);k=encodeURIComponent(k);o.open("POST","/client_errors",true);o.setRequestHeader("Content-Type","application/x-www-form-urlencoded");o.setRequestHeader("X-Requested-With","XMLHttpRequest");o.send("json="+k)};return b(a)})();
+
+</script>
+		
+
+		
+		
+
+
+<script type="text/javascript">
+			var initialVisibilityState = document.webkitVisibilityState;
+
+
+				window._gaq = window._gaq || [];
+
+		_gaq.push(
+			['_setAccount', "UA-30501-1"],
+			['_setDomainName', "yelp.com"],
+			['_setCustomVar', 1, "User Status", "anonymous", 3],
+
+			['_setCustomVar', 5, 'content_country', "US", 3],
+
+				["_trackPageview"]
+,
+			['_trackPageLoadTime']
+		);
+
+		_gaq.push(
+			['www._setAccount', "UA-30501-24"],
+			['www._setDomainName', "yelp.com"],
+			['www._setCustomVar', 1, "User Status", "anonymous", 3],
+
+			['www._setCustomVar', 2, "Homepage Slowed", false, 3],
+
+			['www._setCustomVar', 5, 'content_country', "US", 3],
+
+				["www._trackPageview"]
+,
+			['www._trackPageLoadTime']
+		);
+
+			_gaq.push(
+				['domainTracker._setAccount', "UA-30501-10"],
+				['domainTracker._setDomainName', "yelp.com"],
+
+				['domainTracker._setCustomVar', 5, 'content_country', "US", 3],
+
+					["domainTracker._trackPageview"]
+,
+				['domainTracker._trackPageLoadTime']
+			);
+
+
+			(function(H){H.className=H.className.replace(/\bno-js\b/,'js');})(document.documentElement);
+
+
+</script>
+					<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+			<meta http-equiv="Content-Language" content="en">
+			<meta name="description" content="That awkward moment when you are half asleep and sleep walking your way to the toilet to find you ass sitting on a bare ceramic toilet instead of the cushiony seat!!!! Why?why?why????">
+			<meta name="keywords" content="Toilet seat dilemma">
+			<meta http-equiv="imagetoolbar" content="no">
+
+			<meta name="apple-itunes-app" content="app-id=284910350">
+
+			
+
+	<meta name="application-name" content="Yelp">
+
+	<meta name="msapplication-TileImage" content="http://s3-media3.ak.yelpcdn.com/assets/2/www/img/7f906850f02b/ico/win8-tile.png">
+	<meta name="msapplication-TileColor" content="#c41200">
+
+	<meta name="msapplication-starturl" content="http://www.yelp.com/">
+	<meta name="msapplication-navbutton-color" content="#c41200">
+	<meta name="msapplication-window" content="width=1024;height=768">
+	<meta name="msapplication-tooltip" content="Go to Yelp.com">
+
+	<meta name="msapplication-task" content="name=Find Reviews; action-uri=/; icon-uri=http://s3-media1.ak.yelpcdn.com/assets/2/www/img/a6bbc59c7458/ico/favicon-16x16.ico">
+	<meta name="msapplication-task" content="name=Hot New Businesses; action-uri=/openings; icon-uri=http://s3-media1.ak.yelpcdn.com/assets/2/www/img/a6bbc59c7458/ico/favicon-16x16.ico">
+	<meta name="msapplication-task" content="name=Yelp Deals; action-uri=/search?find_desc=deals; icon-uri=http://s3-media1.ak.yelpcdn.com/assets/2/www/img/a6bbc59c7458/ico/favicon-16x16.ico">
+
+
+		
+			<title>Toilet seat dilemma | Oakland | Yelp</title>
+
+				<link rel="stylesheet" type="text/css" href="http://s3-media4.ak.yelpcdn.com/assets/2/www/css/1aafca4eaea7/www-pkg-en_US.min.css">
+	<link rel="stylesheet" type="text/css" media="all" href="http://s3-media4.ak.yelpcdn.com/assets/2/www/css/17f7dba3dd1b/talk-en_US.min.css">
+		
+
+
+<script type="text/javascript">
+										
+	window.Yelp = window.Yelp || {};
+
+	var imagesHostUrl = "http://media1.ak.yelpcdn.com" + '/';
+
+	Yelp.unique_request_id = "2a55cfc32dd7ada9";
+	Yelp.cookie_domain = ".yelp.com";
+
+	window.yelp = window.yelp || {};
+	window.yelp.config = window.yelp.config || {};
+	window.yelp.biz_domain = "biz.yelp.com";
+	window.yelp.img_serial = "20120626";
+	window.yelp.js_serial = "20120626";
+
+	yelp.lang = yelp.lang || {};
+	yelp.lang.locales = ["en_US"];
+	yelp.lang.languages = ["en"];
+
+
+
+
+					yelp.config = {"cdn_origin_yelp": 1, "uid": null, "classLoggerLevel": "error", "url_scheme": "http", "isFBAsyncSSL": false, "enabledSitRepChannels": {}, "fbuid": null, "isLoggedIn": false, "isReadOnlyMode": false, "isSitRepEnabled": false, "isFBICEnabled": true, "comscore": {"c15": "", "c3": "", "c2": 7130511, "c1": 2, "c6": "", "c5": "", "c4": ""}, "isClientErrorsEnabled": true, "isReviewLanguageDetectionEnabled": true, "cdn_origin_s3": 2, "bizownerSiteURL": "https://biz.yelp.com/", "showSpellChecker": true, "mobileUA": false, "uniqueRequestID": "2a55cfc32dd7ada9", "fbappid": 97534753161, "servletName": "topic", "url": {"maputil": "http://s3-media4.ak.yelpcdn.com/assets/2/www/js/13187c99cada/maputil.min.js", "categoryYelpChooser": "http://s3-media1.ak.yelpcdn.com/assets/2/www/js/107f2e47dd65/category_yelp_chooser.min.js", "xsChannel": "https://s3-media4.ak.yelpcdn.com/assets/2/www/js/230a1eb16252/yelp/util/secure_channel-async.min.js", "captcha": "https://www.google.com/recaptcha/api/js/recaptcha_ajax.js", "dragdrop": "http://s3-media1.ak.yelpcdn.com/assets/2/www/js/ab8ca71c0b6b/vendor/prototype/dragdrop.min.js", "effects": "http://s3-media4.ak.yelpcdn.com/assets/2/www/js/e28ca1f9af10/prototype_effects-pkg.min.js"}, "cdn_shards": 4, "hideFBSyncFloater": null, "cdn_static_hostname_pattern": "s3-media%s.ak.yelpcdn.com", "cdn_origin": 2, "recaptchaPublicKey": "6Lc2978SAAAAADHkLB3mdFpNLLfBP5CYnqlR0gz6", "bingMapsKey": "AvoTBU5YW57X2zdsJlJstIBzH6emsqH64BeuUs_smf7Vcw8QPLG9mM1U3Y6Oz2rT"};
+
+
+
+</script>
+		
+
+					<script src="http://s3-media4.ak.yelpcdn.com/assets/2/www/js/1ed8e8cbd2b2/www-pkg-en_US.min.js" type="text/javascript"></script>
+
+
+
+			<script type="text/javascript">yelp.init.wrapper("yelp.init.base.header", {"countryNameList": ["australia", "austria", "belgium", "canada", "denmark", "finland", "france", "germany", "ireland", "italy", "norway", "poland", "singapore", "spain", "sweden", "switzerland", "netherlands", "turkey", "uk", "usa"], "showHoodsList": true, "locationSuggestServiceEnabled": true, "searchSuggestEnabled": true});</script>
+
+
+
+
+<script type="text/javascript">
+
+
+</script>
+		
+			
+
+<script type="text/javascript">
+		var googletag = googletag || {};
+		googletag.cmd = googletag.cmd || [];
+
+
+		googletag.cmd.push(function() {
+			googletag.pubads().collapseEmptyDivs();
+
+				googletag.pubads().enableSyncRendering();
+
+					googletag.pubads().setTargeting("city", "Oakland");
+					googletag.pubads().setTargeting("language", "en");
+					googletag.pubads().setTargeting("country", "us");
+					googletag.pubads().setTargeting("section", "talkthread");
+					googletag.pubads().setTargeting("dma_code", "807");
+					googletag.pubads().setTargeting("sk", "no");
+					googletag.pubads().setTargeting("signed_in", "no");
+					googletag.pubads().setTargeting("mode", "live");
+
+			googletag.enableServices();
+
+		});
+
+
+</script>
+		
+		<script src="//www.googletagservices.com/tag/js/gpt.js" type="text/javascript"></script>
+
+
+
+		<link rel="shortcut icon" href="http://s3-media2.ak.yelpcdn.com/assets/2/www/img/118ff475a341/ico/favicon.ico">
+
+
+
+
+		<link rel="search" type="application/opensearchdescription+xml" href="/opensearch" title="Yelp" />
+
+			<meta name="relativepagescore" content="400000"/>
+	</head>
+
+
+
+
+	<body id="yelp_main_body" class="us logged-out">
+
+			<div id="fb-root"></div>
+					<fb:connect-bar autorefresh="true" onNotDisplay="yelp.hub.publish('ext.FB.bluebar', false);" onClose="yelp.ui.blueBarToggle(false); yelp.hub.publish('ext.FB.bluebar', false);" onDisplay="yelp.ui.blueBarToggle(true); yelp.hub.publish('ext.FB.bluebar', true);"></fb:connect-bar>
+
+			<script type="text/javascript">yelp.init.wrapper("yelp.util.JSTrack.init", null);</script>
+
+
+		
+
+
+
+		<div id="wrap" class="lang-en">
+
+
+			
+<ul class="offscreen">
+	<li>
+		<a href="#header_find_form" rel="nofollow">Skip to Search Form</a>
+	</li>
+	<li>
+		<a href="#nav-container" rel="nofollow">Skip to Navigation</a>
+	</li>
+	<li>
+		<a href="#page-content" rel="nofollow">Skip to Page Content</a>
+	</li>
+</ul>
+
+<!-- google_ad_section_start(weight=ignore) -->
+	<ul id="header-account" class="webview-hidden">
+		<li class="language-selector clearfix">
+			
+			
+	<div id="header-language-selector-wrap" class="drop-menu-origin language-selector-wrap ieSucks">
+		<a href=/language id="header-language-selector-anchor" class="drop-menu-link language-selector-anchor ieSucks">
+			<span  class="i-wrap ig-wrap-common i-dropdown-arrow-common-wrap ig-wrap-common-r dropdown-arrow"><i  class="i ig-common i-dropdown-arrow-common"></i> English</span>
+		</a>
+		<div id="header-language-selector-menu" class="drop-menu language-selector-menu">
+				<ul>
+			<li>
+				<ul class="language-items">
+							<li>
+								<a href="http://www.yelp.dk/topic/oakland-toilet-seat-dilemma">Dansk (Danmark)</a>
+							</li>
+				</ul>
+			</li>
+			<li>
+				<ul class="language-items">
+							<li>
+								<a href="http://www.yelp.de/topic/oakland-toilet-seat-dilemma">Deutsch (Deutschland)</a>
+							</li>
+							<li>
+								<a href="http://de.yelp.ch/topic/oakland-toilet-seat-dilemma">Deutsch (Schweiz)</a>
+							</li>
+							<li>
+								<a href="http://www.yelp.at/topic/oakland-toilet-seat-dilemma">Deutsch (Österreich)</a>
+							</li>
+				</ul>
+			</li>
+			<li>
+				<ul class="language-items">
+							<li>
+								<a href="http://www.yelp.com.au/topic/oakland-toilet-seat-dilemma">English (Australia)</a>
+							</li>
+							<li>
+								<a href="http://en.yelp.be/topic/oakland-toilet-seat-dilemma">English (Belgium)</a>
+							</li>
+							<li>
+								<a href="http://www.yelp.ca/topic/oakland-toilet-seat-dilemma">English (Canada)</a>
+							</li>
+							<li>
+								<a href="http://www.yelp.ie/topic/oakland-toilet-seat-dilemma">English (Republic of Ireland)</a>
+							</li>
+							<li>
+								<a href="http://www.yelp.com.sg/topic/oakland-toilet-seat-dilemma">English (Singapore)</a>
+							</li>
+							<li>
+								<a href="http://en.yelp.ch/topic/oakland-toilet-seat-dilemma">English (Switzerland)</a>
+							</li>
+							<li>
+								<a href="http://www.yelp.co.uk/topic/oakland-toilet-seat-dilemma">English (United Kingdom)</a>
+							</li>
+							<li class="language-selector-selection">English (United States)</li>
+				</ul>
+			</li>
+			<li>
+				<ul class="language-items">
+							<li>
+								<a href="http://www.yelp.es/topic/oakland-toilet-seat-dilemma">Español (España)</a>
+							</li>
+				</ul>
+			</li>
+			<li>
+				<ul class="language-items">
+							<li>
+								<a href="http://fr.yelp.be/topic/oakland-toilet-seat-dilemma">Français (Belgique)</a>
+							</li>
+							<li>
+								<a href="http://fr.yelp.ca/topic/oakland-toilet-seat-dilemma">Français (Canada)</a>
+							</li>
+							<li>
+								<a href="http://www.yelp.fr/topic/oakland-toilet-seat-dilemma">Français (France)</a>
+							</li>
+							<li>
+								<a href="http://fr.yelp.ch/topic/oakland-toilet-seat-dilemma">Français (Suisse)</a>
+							</li>
+				</ul>
+			</li>
+			<li>
+				<ul class="language-items">
+							<li>
+								<a href="http://www.yelp.it/topic/oakland-toilet-seat-dilemma">Italiano (Italia)</a>
+							</li>
+							<li>
+								<a href="http://it.yelp.ch/topic/oakland-toilet-seat-dilemma">Italiano (Svizzera)</a>
+							</li>
+				</ul>
+			</li>
+			<li>
+				<ul class="language-items">
+							<li>
+								<a href="http://nl.yelp.be/topic/oakland-toilet-seat-dilemma">Nederlands (België)</a>
+							</li>
+							<li>
+								<a href="http://www.yelp.nl/topic/oakland-toilet-seat-dilemma">Nederlands (Nederland)</a>
+							</li>
+				</ul>
+			</li>
+			<li>
+				<ul class="language-items">
+							<li>
+								<a href="http://www.yelp.no/topic/oakland-toilet-seat-dilemma">Norsk (Norge)</a>
+							</li>
+				</ul>
+			</li>
+			<li>
+				<ul class="language-items">
+							<li>
+								<a href="http://www.yelp.pl/topic/oakland-toilet-seat-dilemma">Polski (Polska)</a>
+							</li>
+				</ul>
+			</li>
+			<li>
+				<ul class="language-items">
+							<li>
+								<a href="http://fi.yelp.fi/topic/oakland-toilet-seat-dilemma">Suomi (Suomi)</a>
+							</li>
+				</ul>
+			</li>
+			<li>
+				<ul class="language-items">
+							<li>
+								<a href="http://sv.yelp.fi/topic/oakland-toilet-seat-dilemma">Svenska (Finland)</a>
+							</li>
+							<li>
+								<a href="http://www.yelp.se/topic/oakland-toilet-seat-dilemma">Svenska (Sverige)</a>
+							</li>
+				</ul>
+			</li>
+			<li>
+				<ul class="language-items last">
+							<li>
+								<a href="http://www.yelp.com.tr/topic/oakland-toilet-seat-dilemma">Türkçe (Türkiye)</a>
+							</li>
+				</ul>
+			</li>
+	</ul>
+
+		</div>
+	</div>
+
+		</li>
+
+
+			<li class="login"><a class="header-link" href="https://www.yelp.com/login?return_url=%2Ftopic%2Foakland-toilet-seat-dilemma">Log In</a></li>
+			<li class="account"><a class="header-link" href="https://www.yelp.com/signup" id="Zprofile">Sign Up for Yelp</a></li>
+
+		
+		<li id="fb-notice" class="drop-menu-origin" style="display: none;">
+			<img width="20" height="20" id="fb-notice-pic" src="http://s3-media1.ak.yelpcdn.com/assets/2/www/img/325472601571/p.gif" class="header-user-photo">
+			<span>Yelp is using Facebook to personalize your experience.</span>
+			<div class="fb-menu">
+				<a href="#" id="fb-notice-options-link" class="header-link drop-menu-link">
+					<span  class="i-wrap ig-wrap-common i-dropdown-arrow-common-wrap ig-wrap-common-r dropdown-arrow"><i  class="i ig-common i-dropdown-arrow-common"></i> Options</span>
+				</a>
+				<ul id="fb-notice-options" class="reset-header drop-menu">
+					<li>
+						<a href="/static?p=fb_yelp">What is this?</a>
+					</li>
+					<li>
+						Not you?<br>
+						<a href="#" id="fb-logout-link">Log out of Facebook</a>
+					</li>
+					<li>
+						Don't want to be connected?<br>
+						<a href="/static?p=fb_yelp">How to turn this off</a>
+					</li>
+				</ul>
+			</div>
+		</li>
+
+	</ul>
+	<div id="mastHead" class="webview-hidden">
+			<div id="logo-wrap">
+			<div id="logo"><a href="/">Yelp</a></div>
+	</div>
+
+
+		<form method="get" action="/search" name="header_find_form" id="header_find_form">
+			<p id="search_for">
+				<label for="find_desc">Search for <span>(e.g. taco, cheap dinner, Max's)</span></label>
+				<input maxlength="64" name="find_desc" tabindex="1" size="20" id="find_desc" autocomplete="off" value="">
+			</p>
+			
+			
+
+
+			<p id="search_near" class="clearfix">
+					<label for="dropperText_Mast">Near <em>(Address, <span id="header_hoods">Neighborhood</span>, City, State or Zip)</em></label>
+					
+				<input maxlength="64" name="find_loc" tabindex="2" id="dropperText_Mast" size="14" value="San Francisco, CA">
+				<input type="hidden" name="ns" value="1">
+			</p>
+			<div class="button-container">
+				<button id="header-search-submit" tabindex="3" type="submit" value="submit" class="ybtn ybtn-primary ybtn-large"><span>Search</span></button>
+			</div>
+		</form>
+
+		<ul id="nav-container">
+			<li id="welcome">
+				<a href="/">Welcome</a>
+			</li>
+			<li id="about-me">					<a href="/signup?return_url=%2Fuser_details" id="Zabout_me">			About Me</a></li>
+			<li id="write-review">				<a href="/writeareview" id="Zwrite_a_review">Write a Review</a>
+			</li>
+			<li id="find-friends">					<a href="/signup?return_url=%2Ffind_friends%2F" id="Zfind_friends">				Find Friends</a>
+			</li>
+			<li id="messaging">					<a href="/signup?return_url=%2Fmail" id="Zmail">				Messaging</a>
+			</li>
+			<li id="talk">
+				<a href="/talk">Talk</a>
+			</li>
+
+					<li id="events">
+						<a href="/events/sf">Events</a>
+					</li>
+		</ul>
+		<ul id="secondary-nav">
+			<li>
+				<a href="/member_search" id="member-search">Member Search</a>
+			</li>
+		</ul>
+	</div>
+
+		<div id="print-masthead">
+		<img src="http://s3-media2.ak.yelpcdn.com/assets/2/www/img/b7e9d647188d/gfx/header_print.gif" class="print-bkg-img" alt="Yelp">
+	</div>
+
+
+		<script type="text/javascript">yelp.init.wrapper("yelp.util.analytics.GA.trackNavClicks", null);</script>
+
+<!-- google_ad_section_end -->
+
+
+			<div id="super-container">
+				<span id="page-content" class="offscreen">&nbsp;</span>
+
+
+				<div id="alert-container">
+
+
+
+				</div>
+
+
+<div class="container talk" id="page-top">
+			<div id="page-header">
+					<div id="loc-bar" class="ieSucks clearfix">
+		<h1>
+				Talk Oakland
+		</h1>
+		<ul id="other-cities-list">
+					<li><a href="http://www.yelp.com/talk/manhattan">Manhattan</a></li>					<li><a href="http://www.yelp.com/talk/nyc">New York</a></li>					<li><a href="http://www.yelp.com/talk/san-jose">San Jose</a></li>					<li><a href="http://www.yelp.com/talk/la">Los Angeles</a></li>					<li><a href="http://www.yelp.com/talk/chicago">Chicago</a></li>					<li><a href="http://www.yelp.com/talk/palo-alto-ca">Palo Alto</a></li>
+				<li><a href="/locations" class="main-box-toggle">More Cities &raquo;</a></li>
+		</ul>
+	</div>
+
+	</div>
+
+		
+
+
+
+
+	<div class="googlead-leader-wrapper" id="yelp_us_talk_talkthread_728x90-wrapper">
+		<div class="google-ads googlead-leader-container">
+
+			<div class="google-ads-block googlead-leader" id="yelp_us_talk_talkthread_728x90">
+
+
+<script type="text/javascript">
+
+					googletag.cmd.push(function() {
+
+
+						var slot = googletag.defineSlot(
+							"/1014943/yelp_us/talk/talkthread/728x90",
+							[728, 90], "yelp_us_talk_talkthread_728x90"
+						);
+						slot.addService(googletag.pubads());
+
+
+
+						googletag.display("yelp_us_talk_talkthread_728x90");
+					});
+
+
+</script>
+					</div> 
+
+		</div> 
+	</div> 
+
+			<div id="top_banner" class="clearfix">
+			<form name="talk_form" id="talk_form" action="/message_board_search" method="get">
+				<input name="talk_query" id="talk_query" type="text" size="20" value="" placeholder="Search Talk in Oakland">
+				<input name="location" value="" type="hidden">
+				<button id="talk_search_submit" type="submit" value="submit" class="ybtn ybtn-secondary ybtn-small"><span>Search</span></button>
+			</form>
+			<a href="/talk/new_topic?previous_url=%2Ftopic%2Foakland-toilet-seat-dilemma" id="new_conversation" class="ybtn ybtn-primary ybtn-small">New Conversation</a>
+	</div>
+
+
+<div class="clearfix layout-block layout-n">
+<div class="column column-alpha " id="talk_cat_list">
+				<div id="thread_sidebar">
+						<ul>
+		<li  class="selected">
+			<a href="/talk/oakland">All Conversations</a>
+				<em>		A moment ago
+</em>
+		</li>
+					<li>
+				<a href="/talk/oakland/category/Local-Questions-and-Answers">Local Questions & Answers</a>
+					<em>		9 minutes ago
+</em>
+			</li>
+			<li>
+				<a href="/talk/oakland/category/Events">Events</a>
+					<em>		13 minutes ago
+</em>
+			</li>
+			<li>
+				<a href="/talk/oakland/category/Food">Food</a>
+					<em>		44 minutes ago
+</em>
+			</li>
+			<li>
+				<a href="/talk/oakland/category/Shopping-and-Products">Shopping & Products</a>
+					<em>		53 minutes ago
+</em>
+			</li>
+			<li>
+				<a href="/talk/oakland/category/Travel">Travel</a>
+					<em>		5 hours ago
+</em>
+			</li>
+			<li>
+				<a href="/talk/oakland/category/Relationships-and-Dating">Relationships & Dating</a>
+					<em>		2 minutes ago
+</em>
+			</li>
+			<li>
+				<a href="/talk/oakland/category/Humor-and-Offbeat">Humor & Offbeat</a>
+					<em>		43 minutes ago
+</em>
+			</li>
+			<li>
+				<a href="/talk/oakland/category/Pop-Culture">Entertainment & Pop Culture</a>
+					<em>		4 hours ago
+</em>
+			</li>
+			<li>
+				<a href="/talk/oakland/category/Sports">Sports</a>
+					<em>		42 minutes ago
+</em>
+			</li>
+			<li>
+				<a href="/talk/oakland/category/News-and-Politics">News & Politics</a>
+					<em>		6 minutes ago
+</em>
+			</li>
+			<li>
+				<a href="/talk/oakland/category/Family-and-Parenting">Family & Parenting</a>
+					<em>		4 hours ago
+</em>
+			</li>
+			<li>
+				<a href="/talk/oakland/category/Yelper-Shout-Outs">Yelper Shout-Outs</a>
+					<em>		4 hours ago
+</em>
+			</li>
+			<li>
+				<a href="/talk/oakland/category/Site-Questions-and-Updates">Site Questions & Updates</a>
+					<em>		One hour ago
+</em>
+			</li>
+			<li>
+				<a href="/talk/oakland/category/Other">Other</a>
+					<em>		A moment ago
+</em>
+			</li>
+
+	</ul>
+
+
+						<h3>Recent Conversations</h3>
+					<ul class="ieSucks">
+							<li>
+								<a href="/topic/san-francisco-easy-safety-reminders-while-enjoying-the-comfort-and-ambiance-of-a-fireplace-2">Easy Safety Reminders While Enjoying the Comfort and Ambiance of a Fireplace</a><br />
+								<span class="formNote">
+											A moment ago
+
+								</span>
+							</li>
+							<li>
+								<a href="/topic/san-francisco-your-last-day-alive">Your last day alive!</a><br />
+								<span class="formNote">
+											2 minutes ago
+
+								</span>
+							</li>
+							<li>
+								<a href="/topic/san-francisco-i-apologize-for-bring-a-super-boob">I apologize for bring a super boob.</a><br />
+								<span class="formNote">
+											6 minutes ago
+
+								</span>
+							</li>
+							<li>
+								<a href="/topic/san-francisco-sf-gun-buyback">SF Gun Buyback</a><br />
+								<span class="formNote">
+											9 minutes ago
+
+								</span>
+							</li>
+							<li>
+								<a href="/topic/san-francisco-susie-favors-hamilton-is-a-prahstatution-whur">Susie Favors Hamilton is a prahstatution whur</a><br />
+								<span class="formNote">
+											9 minutes ago
+
+								</span>
+							</li>
+							<li>
+								<a href="/topic/san-francisco-bro-bar-vs-hipster-bar">Bro bar vs. Hipster Bar</a><br />
+								<span class="formNote">
+											10 minutes ago
+
+								</span>
+							</li>
+							<li>
+								<a href="/topic/san-francisco-cl-missed-connections-holiday-2012-version">CL Missed Connections - Holiday 2012 Version</a><br />
+								<span class="formNote">
+											10 minutes ago
+
+								</span>
+							</li>
+							<li>
+								<a href="/topic/san-francisco-27-people-dead-in-conn-elementary-school-shooting">27 People dead in Conn. Elementary school shooting</a><br />
+								<span class="formNote">
+											13 minutes ago
+
+								</span>
+							</li>
+							<li>
+								<a href="/topic/san-francisco-bdsm-2">BDSM</a><br />
+								<span class="formNote">
+											13 minutes ago
+
+								</span>
+							</li>
+							<li>
+								<a href="/topic/san-francisco-im-not-a-prostitute">i'm not a prostitute!</a><br />
+								<span class="formNote">
+											19 minutes ago
+
+								</span>
+							</li>
+							<li>
+								<a href="/topic/dublin-the-end-of-alex-smith">The end of Alex Smith.</a><br />
+								<span class="formNote">
+											26 minutes ago
+
+								</span>
+							</li>
+							<li>
+								<a href="/topic/san-francisco-easy-safety-reminders-while-enjoying-the-comfort-and-ambiance-of-a-fireplace">Easy Safety Reminders While Enjoying the Comfort and Ambiance of a Fireplace</a><br />
+								<span class="formNote">
+											33 minutes ago
+
+								</span>
+							</li>
+							<li>
+								<a href="/topic/san-francisco-custom-exclusive-beats">Custom Exclusive Beats</a><br />
+								<span class="formNote">
+											34 minutes ago
+
+								</span>
+							</li>
+							<li>
+								<a href="/topic/east-bay-a-more-intimate-dining-experience">A more intimate dining experience...</a><br />
+								<span class="formNote">
+											42 minutes ago
+
+								</span>
+							</li>
+							<li>
+								<a href="/topic/san-francisco-one-word-thread">One Word Thread</a><br />
+								<span class="formNote">
+											42 minutes ago
+
+								</span>
+							</li>
+							<li>
+								<a href="/topic/san-francisco-mini-raves">Mini Raves</a><br />
+								<span class="formNote">
+											43 minutes ago
+
+								</span>
+							</li>
+							<li>
+								<a href="/topic/san-francisco-entertainment-book-entertainment-com">Entertainment Book Entertainment.­com</a><br />
+								<span class="formNote">
+											43 minutes ago
+
+								</span>
+							</li>
+							<li>
+								<a href="/topic/san-francisco-persimmons-3">Persimmons</a><br />
+								<span class="formNote">
+											44 minutes ago
+
+								</span>
+							</li>
+							<li>
+								<a href="/topic/san-francisco-bmw-or-lexus">bmw or lexus ?</a><br />
+								<span class="formNote">
+											53 minutes ago
+
+								</span>
+							</li>
+							<li>
+								<a href="/topic/san-francisco-yelp-talk-comes-to-android">Yelp Talk comes to Android</a><br />
+								<span class="formNote">
+											One hour ago
+
+								</span>
+							</li>
+						<li>
+							<a href="/talk/oakland">See All Conversations</a>
+						</li>
+					</ul>
+				</div>
+				
+
+
+
+
+	<div class="googlead-sky-wrapper" id="yelp_us_talk_talkthread_160x600-wrapper">
+		<div class="google-ads googlead-sky-container">
+
+			<div class="google-ads-block googlead-sky" id="yelp_us_talk_talkthread_160x600">
+
+
+<script type="text/javascript">
+
+					googletag.cmd.push(function() {
+
+
+						var slot = googletag.defineSlot(
+							"/1014943/yelp_us/talk/talkthread/160x600",
+							[160, 600], "yelp_us_talk_talkthread_160x600"
+						);
+						slot.addService(googletag.pubads());
+
+
+
+						googletag.display("yelp_us_talk_talkthread_160x600");
+					});
+
+
+</script>
+					</div> 
+
+		</div> 
+	</div> 
+
+
+</div>
+<div class="column column-beta " id="talk_thread">
+					<h1>Toilet seat dilemma</h1>
+	<p class="category-info">
+		Category: <a href="/talk/oakland/category/Local-Questions-and-Answers" id="categoryLink">Local Questions & Answers</a>
+	</p>
+	<a href="#pageBottom" class="floatLink smaller">Page Bottom &darr;</a>
+			<form action="/talk/subscribe_confirm" class="email-notify-form" method="POST">
+<input type="hidden" class="csrftok" name="csrftok" value="9dd304da82241433741a8a183f0132b795576a2c0e476213bb23e692adeef5a1">
+		<input type="hidden" name="topic_id" value="srt3uqZCFXkKCrLeZdCwSw">
+		<button type="submit" class="i-wrap ig-wrap-common i-envelope-common-wrap strong_pseudolink"><i  class="i ig-common i-envelope-common"></i> Get email updates about this conversation</button>
+
+</form>
+
+
+	<div id="original_topic" class="clearfix ">
+		<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=hAU72qKgpuev6md8_6SngQ">
+				<img class="photo-img" alt="Photo of Meryem E." height="40" src="http://s3-media2.ak.yelpcdn.com/photo/Tbq5kVuAAmZhuWHdEPCcbg/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 67 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 3 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							10/31/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="LCj1ol47kCxeGiUAimIViw"></a>
+					<a href="/user_details?userid=hAU72qKgpuev6md8_6SngQ">Meryem E.</a> says:
+					<p class="message-text">
+						That awkward moment when you are half asleep and sleep walking your way to the toilet to find you ass sitting on a bare ceramic toilet instead of the cushiony seat!!!! Why?why?why????
+					</p>
+
+</div>
+</div>
+	</div>
+		<ol id="topic-replies">
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=8eexFIJNOCbVv8JK3gVXqw">
+				<img class="photo-img" alt="Photo of Jack H." height="40" src="http://s3-media1.ak.yelpcdn.com/photo/ryEI_US0Q_TW911J9ezenw/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 1361 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 210 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							10/31/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="ZvXlx9DTc02n31df710fqw"></a>
+					<a href="/user_details?userid=8eexFIJNOCbVv8JK3gVXqw">Jack H.</a> says:
+					<p class="message-text">
+						I squat. My butt will never again touch a toilet seat. Work those glutes!
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=hAU72qKgpuev6md8_6SngQ">
+				<img class="photo-img" alt="Photo of Meryem E." height="40" src="http://s3-media2.ak.yelpcdn.com/photo/Tbq5kVuAAmZhuWHdEPCcbg/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 67 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 3 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							10/31/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="7RTW7VN7nFluK2d8WSoy3w"></a>
+					<a href="/user_details?userid=hAU72qKgpuev6md8_6SngQ">Meryem E.</a> says:
+					<p class="message-text">
+						Public bathrooms? Sure I totally understand but even at home? Wth?
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=mHjbNKpJaAcyElR12sP6lQ">
+				<img class="photo-img" alt="Photo of R J." height="40" src="http://s3-media3.ak.yelpcdn.com/photo/tY7U9jVy84iRBEBpV-DxmQ/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 0 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 15 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							10/31/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="DVAFepkV75dyLwb99h50Eg"></a>
+					<a href="/user_details?userid=mHjbNKpJaAcyElR12sP6lQ">R J.</a> says:
+					<p class="message-text">
+						I've never done it, but my dad has, only because he's LARGE.
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=8eexFIJNOCbVv8JK3gVXqw">
+				<img class="photo-img" alt="Photo of Jack H." height="40" src="http://s3-media1.ak.yelpcdn.com/photo/ryEI_US0Q_TW911J9ezenw/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 1361 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 210 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							10/31/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="LRhdiv8x1qTQ1mUUDgjZHw"></a>
+					<a href="/user_details?userid=8eexFIJNOCbVv8JK3gVXqw">Jack H.</a> says:
+					<p class="message-text">
+						Haha ok at home I sometimes just sit there w/iPhone toilet yelping
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=5CZNvfYNoF6KCTixXU0RDQ">
+				<img class="photo-img" alt="Photo of N O." height="40" src="http://s3-media3.ak.yelpcdn.com/photo/CZBaaxjU7CUQgMCcvXETrQ/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 169 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 18 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							10/31/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="6a7eg257vC4yLfoziQa5tA"></a>
+					<a href="/user_details?userid=5CZNvfYNoF6KCTixXU0RDQ">N O.</a> says:
+					<p class="message-text">
+						Balls
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=8eexFIJNOCbVv8JK3gVXqw">
+				<img class="photo-img" alt="Photo of Jack H." height="40" src="http://s3-media1.ak.yelpcdn.com/photo/ryEI_US0Q_TW911J9ezenw/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 1361 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 210 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							10/31/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="rQRdKpwT8WYF3Z6kNiD45Q"></a>
+					<a href="/user_details?userid=8eexFIJNOCbVv8JK3gVXqw">Jack H.</a> says:
+					<p class="message-text">
+						"I don't like sitting on the toilet seat when I pee because I just don't really like the feeling of my balls hanging down and soaking in the toilet water."<br>-funny line I heard on some stupid TV show recently
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=445DDtqLQdWwYRXcTIDS5g">
+				<img class="photo-img" alt="Photo of C B." height="40" src="http://s3-media4.ak.yelpcdn.com/photo/PXMvva99fg9ld6zFtyHs6g/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 168 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 29 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							10/31/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="GLE62B6nli0gK39e53k9SQ"></a>
+					<a href="/user_details?userid=445DDtqLQdWwYRXcTIDS5g">C &#34;chubbybunny&#34; B.</a> says:
+					<p class="message-text">
+						Who has a padded toilet seat? Thats swanky
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=mHjbNKpJaAcyElR12sP6lQ">
+				<img class="photo-img" alt="Photo of R J." height="40" src="http://s3-media3.ak.yelpcdn.com/photo/tY7U9jVy84iRBEBpV-DxmQ/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 0 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 15 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							10/31/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="w1kXEF02Vq4oqd5kiAr5LA"></a>
+					<a href="/user_details?userid=mHjbNKpJaAcyElR12sP6lQ">R J.</a> says:
+					<p class="message-text">
+						^ my grandma had one of them.
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=445DDtqLQdWwYRXcTIDS5g">
+				<img class="photo-img" alt="Photo of C B." height="40" src="http://s3-media4.ak.yelpcdn.com/photo/PXMvva99fg9ld6zFtyHs6g/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 168 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 29 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							10/31/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="wMAPsXgwZ1IbFtGVSAG2pA"></a>
+					<a href="/user_details?userid=445DDtqLQdWwYRXcTIDS5g">C &#34;chubbybunny&#34; B.</a> says:
+					<p class="message-text">
+						Was the top covered in that carpet crap?
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=HQUtXIp4iHGlwDEhEpQpbg">
+				<img class="photo-img" alt="Photo of Jon F." height="40" src="http://s3-media1.ak.yelpcdn.com/photo/jm3CwfFJjRZkaWHPzNrfbA/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 66 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 1 <span class="offscreen">review</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							10/31/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="QDuKP9RjTKauvodqFvLQaQ"></a>
+					<a href="/user_details?userid=HQUtXIp4iHGlwDEhEpQpbg">Jon F.</a> says:
+					<p class="message-text">
+						Yeah, my grandma had one too. Do they still make those?
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=8eexFIJNOCbVv8JK3gVXqw">
+				<img class="photo-img" alt="Photo of Jack H." height="40" src="http://s3-media1.ak.yelpcdn.com/photo/ryEI_US0Q_TW911J9ezenw/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 1361 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 210 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							10/31/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="6mBq_AzXuAEWEz3bHAPe9w"></a>
+					<a href="/user_details?userid=8eexFIJNOCbVv8JK3gVXqw">Jack H.</a> says:
+					<p class="message-text">
+						Toilet dilemmas *are* the worst dilemmas
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=mHjbNKpJaAcyElR12sP6lQ">
+				<img class="photo-img" alt="Photo of R J." height="40" src="http://s3-media3.ak.yelpcdn.com/photo/tY7U9jVy84iRBEBpV-DxmQ/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 0 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 15 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							10/31/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="8ElvNXKNTm5f0xuVRQnXdA"></a>
+					<a href="/user_details?userid=mHjbNKpJaAcyElR12sP6lQ">R J.</a> says:
+					<p class="message-text">
+						It was some sort of vinyl material, I used to fall asleep when I was a kid pooping on my grandparent's toilet as a kid.
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=445DDtqLQdWwYRXcTIDS5g">
+				<img class="photo-img" alt="Photo of C B." height="40" src="http://s3-media4.ak.yelpcdn.com/photo/PXMvva99fg9ld6zFtyHs6g/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 168 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 29 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							10/31/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="oVCbMvHPl1OTwosU8oliwA"></a>
+					<a href="/user_details?userid=445DDtqLQdWwYRXcTIDS5g">C &#34;chubbybunny&#34; B.</a> says:
+					<p class="message-text">
+						I like the "quiet close" lids that close slowly.
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=kxyC0GCqFM2UOfNlF3SWRA">
+				<img class="photo-img" alt="Photo of Patrick T." height="40" src="http://s3-media4.ak.yelpcdn.com/photo/guAAa3haORg4RpdxOzprRw/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 93 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 7 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							10/31/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="WYP1PeRpBOAPhYVuRHaktA"></a>
+					<a href="/user_details?userid=kxyC0GCqFM2UOfNlF3SWRA">Patrick &#34;Snakebone&#34; T.</a> says:
+					<p class="message-text">
+						Hi
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=NEfnQRJrtbRgqWC_2cTk3Q">
+				<img class="photo-img" alt="Photo of H O." height="40" src="http://s3-media3.ak.yelpcdn.com/photo/J7majg637zwQVWNlDV7qBw/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 3 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 0 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							10/31/2012
+
+				</span>
+				<a name="uKFLzUzKC0qmd_K67ObI_Q"></a>
+					<a href="/user_details?userid=NEfnQRJrtbRgqWC_2cTk3Q">H O.</a> says:
+					<p class="message-text">
+						I don't have this problem. I actually pay attention when shitting.
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=445DDtqLQdWwYRXcTIDS5g">
+				<img class="photo-img" alt="Photo of C B." height="40" src="http://s3-media4.ak.yelpcdn.com/photo/PXMvva99fg9ld6zFtyHs6g/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 168 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 29 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							10/31/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="dniNKiNI9ySg0jbRvap9dg"></a>
+					<a href="/user_details?userid=445DDtqLQdWwYRXcTIDS5g">C &#34;chubbybunny&#34; B.</a> says:
+					<p class="message-text">
+						Lol RJ. I never hung out on the toilet that long. Although once when I was super doped up on nyquil I almost passed out on it.
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=mHjbNKpJaAcyElR12sP6lQ">
+				<img class="photo-img" alt="Photo of R J." height="40" src="http://s3-media3.ak.yelpcdn.com/photo/tY7U9jVy84iRBEBpV-DxmQ/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 0 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 15 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							10/31/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="-cmiE1MmvW5zywWl2DkgZQ"></a>
+					<a href="/user_details?userid=mHjbNKpJaAcyElR12sP6lQ">R J.</a> says:
+					<p class="message-text">
+						My fantasy dream toilet it a self cleaning/flushing Toto with a built in bidet.
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=NEfnQRJrtbRgqWC_2cTk3Q">
+				<img class="photo-img" alt="Photo of H O." height="40" src="http://s3-media3.ak.yelpcdn.com/photo/J7majg637zwQVWNlDV7qBw/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 3 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 0 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							10/31/2012
+
+				</span>
+				<a name="RtG2G8cQ1rRnEX6VJYuIlg"></a>
+					<a href="/user_details?userid=NEfnQRJrtbRgqWC_2cTk3Q">H O.</a> says:
+					<p class="message-text">
+						@Meryem, we all know that girls don't poo, so you were probably peeing. Why was the toilet seat up, do you live with a guy?
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=0wrPrGWF6LS0kgVSpBs6TA">
+				<img class="photo-img" alt="Photo of Eye D." height="40" src="http://s3-media3.ak.yelpcdn.com/photo/DMTnDqbO531QC7ZX_3sTYg/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 71 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 2 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							10/31/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="nyLxmeKGJ6wGMi1QnbBlDg"></a>
+					<a href="/user_details?userid=0wrPrGWF6LS0kgVSpBs6TA">Eye "Insipid Lipid Panel" D.</a> says:
+					<p class="message-text">
+						I want a bidet
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=vWrdVjjM9k4kWw6Tm7fwNg">
+				<img class="photo-img" alt="Photo of David P." height="40" src="http://s3-media1.ak.yelpcdn.com/photo/fUROAQ-L92KQiHq9E-Ybqg/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 89 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 29 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							10/31/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="R6f7F_CWAWoMzWZpsjWuRg"></a>
+					<a href="/user_details?userid=vWrdVjjM9k4kWw6Tm7fwNg">David P.</a> says:
+					<p class="message-text">
+						Toilets should have a manufacturer's warning on them:<br><br>Warning: Do Not Sleep And Poop. May Cause Drowning And/Or Asphixiation.
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+					
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="#">
+				<img class="photo-img" alt="" height="40" src="http://s3-media3.ak.yelpcdn.com/assets/2/www/img/7eb06b6a9db5/gfx/blank_user_small.gif" width="40">
+			</a>
+	</div>
+
+				</div>
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							10/31/2012
+
+				</span>
+				<a name="pDoLrwy1ymZneAynOHKATA"></a>
+						<br />
+						<p class="removed_message">	This Yelper's account has been closed.
+</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=hAU72qKgpuev6md8_6SngQ">
+				<img class="photo-img" alt="Photo of Meryem E." height="40" src="http://s3-media2.ak.yelpcdn.com/photo/Tbq5kVuAAmZhuWHdEPCcbg/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 67 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 3 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							10/31/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="xDug-zmSQbrg1vxAHzev_Q"></a>
+					<a href="/user_details?userid=hAU72qKgpuev6md8_6SngQ">Meryem E.</a> says:
+					<p class="message-text">
+						Hahahaha wow y'all are hilarious lmao<br>@H O yes that's my dilemma :/ is it an intentional thing? And yes them cushiony toilet seats are the shit!!! For the record I was not taking a dump I was simply trying to pee at the crack of  dawn....
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=445DDtqLQdWwYRXcTIDS5g">
+				<img class="photo-img" alt="Photo of C B." height="40" src="http://s3-media4.ak.yelpcdn.com/photo/PXMvva99fg9ld6zFtyHs6g/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 168 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 29 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							10/31/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="IFDAC-U5mlULLY5iGgUBKA"></a>
+					<a href="/user_details?userid=445DDtqLQdWwYRXcTIDS5g">C &#34;chubbybunny&#34; B.</a> says:
+					<p class="message-text">
+						I think its both people's responsibility to check before sitting down. Would be nice if he remembered to put it down but since you can't control someone else's memory, I say just check before you wind up cheeks deep in toilet water lol
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=mHjbNKpJaAcyElR12sP6lQ">
+				<img class="photo-img" alt="Photo of R J." height="40" src="http://s3-media3.ak.yelpcdn.com/photo/tY7U9jVy84iRBEBpV-DxmQ/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 0 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 15 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							10/31/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="qEPIRnBNsNVqiJ4wNtTJTw"></a>
+					<a href="/user_details?userid=mHjbNKpJaAcyElR12sP6lQ">R J.</a> says:
+					<p class="message-text">
+						My grandma had blue toilet water too. I remember the vinyl seat being pink. She also had a patterned one too.
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=445DDtqLQdWwYRXcTIDS5g">
+				<img class="photo-img" alt="Photo of C B." height="40" src="http://s3-media4.ak.yelpcdn.com/photo/PXMvva99fg9ld6zFtyHs6g/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 168 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 29 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							10/31/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="MdNXnX1qaw0faKL4xQi46Q"></a>
+					<a href="/user_details?userid=445DDtqLQdWwYRXcTIDS5g">C &#34;chubbybunny&#34; B.</a> says:
+					<p class="message-text">
+						I remember a friend of mine's family had a black toilet and i thought it was badass.
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=hAU72qKgpuev6md8_6SngQ">
+				<img class="photo-img" alt="Photo of Meryem E." height="40" src="http://s3-media2.ak.yelpcdn.com/photo/Tbq5kVuAAmZhuWHdEPCcbg/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 67 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 3 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							10/31/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="kbM1ztEKPhrO1_7MMFEP8w"></a>
+					<a href="/user_details?userid=hAU72qKgpuev6md8_6SngQ">Meryem E.</a> says:
+					<p class="message-text">
+						@C B right, but not only my man who tends to pull shit like this, my gf's and almost every woman who lives with a man say they go through this problem so what is it with men and toilet seats?
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=445DDtqLQdWwYRXcTIDS5g">
+				<img class="photo-img" alt="Photo of C B." height="40" src="http://s3-media4.ak.yelpcdn.com/photo/PXMvva99fg9ld6zFtyHs6g/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 168 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 29 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							10/31/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="15e1EneNuciS9RwIgHT2Lg"></a>
+					<a href="/user_details?userid=445DDtqLQdWwYRXcTIDS5g">C &#34;chubbybunny&#34; B.</a> says:
+					<p class="message-text">
+						Do you remember to leave the toilet seat up for HIM? Hmmmm?
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=xjR3gOr834aaKKZMlcnpFQ">
+				<img class="photo-img" alt="Photo of B H." height="40" src="http://s3-media4.ak.yelpcdn.com/photo/sk0-mi2o8O-RgHMKu8cr_Q/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 174 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 149 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							10/31/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="vmuw_HVhmqDHxJGihBffBA"></a>
+					<a href="/user_details?userid=xjR3gOr834aaKKZMlcnpFQ">B &#34;acon Ranc&#34; H.</a> says:
+					<p class="message-text">
+						Cushioned potty seat bwhahaha, they still make those? I thought those went out with popcorn ceilings ala 1972.
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=EZlYr0ox8w8FbxyH5EhBEg">
+				<img class="photo-img" alt="Photo of Cheeks L." height="40" src="http://s3-media3.ak.yelpcdn.com/photo/oShrpg5xU6jU0vQELowgrw/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 65 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 122 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							10/31/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="vkPzcb0gzNFx5tE39bcQNg"></a>
+					<a href="/user_details?userid=EZlYr0ox8w8FbxyH5EhBEg">Cheeks "Mothaeffin McGee" L.</a> says:
+					<p class="message-text">
+						I remember my grandmas old ass padded toilet seat. Was cracked in one spot so it pinched your ass cheek.
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=mHjbNKpJaAcyElR12sP6lQ">
+				<img class="photo-img" alt="Photo of R J." height="40" src="http://s3-media3.ak.yelpcdn.com/photo/tY7U9jVy84iRBEBpV-DxmQ/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 0 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 15 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							10/31/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="vV9RxDLzckwnqEx9huuI0g"></a>
+					<a href="/user_details?userid=mHjbNKpJaAcyElR12sP6lQ">R J.</a> says:
+					<p class="message-text">
+						My dad's business partner had a black toilet. They had boucoup.
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=enanGZo2jQR4X23kqCPQ2g">
+				<img class="photo-img" alt="Photo of Lala H." height="40" src="http://s3-media4.ak.yelpcdn.com/photo/3dQIVT6xqZTEuML1YT2_hw/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 87 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 16 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							10/31/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="SuZluzHp1V_6g9Dv5lIT6A"></a>
+					<a href="/user_details?userid=enanGZo2jQR4X23kqCPQ2g">Lala "Perfectly Imperfect" H.</a> says:
+					<p class="message-text">
+						*toilet yelping*
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=xjR3gOr834aaKKZMlcnpFQ">
+				<img class="photo-img" alt="Photo of B H." height="40" src="http://s3-media4.ak.yelpcdn.com/photo/sk0-mi2o8O-RgHMKu8cr_Q/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 174 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 149 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							10/31/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="fA2El1YVZ-hvxM7IqPQmJw"></a>
+					<a href="/user_details?userid=xjR3gOr834aaKKZMlcnpFQ">B &#34;acon Ranc&#34; H.</a> says:
+					<p class="message-text">
+						Yea those nasty cushioned seats you know the foam in those things harbors all kinds of nastiness efff that I'd rather hover or just sit on the dam porcelain .
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=t4ePmQZaKjlgRyd_WUztfA">
+				<img class="photo-img" alt="Photo of Needles K." height="40" src="http://s3-media2.ak.yelpcdn.com/photo/7XGH4ozKXORFQgJFdb3djw/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 44 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 19 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							10/31/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="S5x75MjBSjyOD7sddtxQXg"></a>
+					<a href="/user_details?userid=t4ePmQZaKjlgRyd_WUztfA">Needles "Hello Bitchy" K.</a> says:
+					<p class="message-text">
+						I think it's a senior citizen thing.  My parents have a padded seat.
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=KfoRgxkLB-sP-M_h_KGxXQ">
+				<img class="photo-img" alt="Photo of T S." height="40" src="http://s3-media3.ak.yelpcdn.com/photo/NXICc17_VwVeCSoWEQ2toQ/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 99 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 15 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							10/31/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="YpK5MZ_veDoIBTNOKyLHsg"></a>
+					<a href="/user_details?userid=KfoRgxkLB-sP-M_h_KGxXQ">T "Invigoratingly Convivial" S.</a> says:
+					<p class="message-text">
+						My dilemma.. Is when public restrooms have pee all over the seat from squatting sprayers! Disgusting!
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=xjR3gOr834aaKKZMlcnpFQ">
+				<img class="photo-img" alt="Photo of B H." height="40" src="http://s3-media4.ak.yelpcdn.com/photo/sk0-mi2o8O-RgHMKu8cr_Q/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 174 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 149 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							10/31/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="EIXn5d5b6zpsZqFRfKVzoA"></a>
+					<a href="/user_details?userid=xjR3gOr834aaKKZMlcnpFQ">B &#34;acon Ranc&#34; H.</a> says:
+					<p class="message-text">
+						I waste TP by creating a seat liner whenever I gotta sit on those gross padded thangs.
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=enanGZo2jQR4X23kqCPQ2g">
+				<img class="photo-img" alt="Photo of Lala H." height="40" src="http://s3-media4.ak.yelpcdn.com/photo/3dQIVT6xqZTEuML1YT2_hw/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 87 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 16 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							10/31/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="6GbZrGaIR0qDDnQ_Q9EyfQ"></a>
+					<a href="/user_details?userid=enanGZo2jQR4X23kqCPQ2g">Lala "Perfectly Imperfect" H.</a> says:
+					<p class="message-text">
+						I cover and layer the crap out of the seat when using public restrooms... It's not the squatting that I have issues with, it's aiming. That's my dilemma.
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=NEfnQRJrtbRgqWC_2cTk3Q">
+				<img class="photo-img" alt="Photo of H O." height="40" src="http://s3-media3.ak.yelpcdn.com/photo/J7majg637zwQVWNlDV7qBw/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 3 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 0 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							10/31/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="z4hirhO8pZyaiIym8QMAtw"></a>
+					<a href="/user_details?userid=NEfnQRJrtbRgqWC_2cTk3Q">H O.</a> says:
+					<p class="message-text">
+						^ it took me several years before I had the courage to use public bathrooms, even the ones at work for #2
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=0wrPrGWF6LS0kgVSpBs6TA">
+				<img class="photo-img" alt="Photo of Eye D." height="40" src="http://s3-media3.ak.yelpcdn.com/photo/DMTnDqbO531QC7ZX_3sTYg/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 71 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 2 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							10/31/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="MqAkG4rkd7Zlf3yoeC04YQ"></a>
+					<a href="/user_details?userid=0wrPrGWF6LS0kgVSpBs6TA">Eye "Insipid Lipid Panel" D.</a> says:
+					<p class="message-text">
+						It's lame when you have to use the crapper at work.  You hopefully get the roomy handicapped stall.  Then inspext the toilet.  Did a previous users stray floaty not get with the program and flush properly?  Did some fuck spray the edge of the seat with diarrhea then not bother to clean up afterwards?  Things to keep in mind of...
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=enanGZo2jQR4X23kqCPQ2g">
+				<img class="photo-img" alt="Photo of Lala H." height="40" src="http://s3-media4.ak.yelpcdn.com/photo/3dQIVT6xqZTEuML1YT2_hw/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 87 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 16 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							10/31/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="OmJpz6KSuhqZIW3vb8IASg"></a>
+					<a href="/user_details?userid=enanGZo2jQR4X23kqCPQ2g">Lala "Perfectly Imperfect" H.</a> says:
+					<p class="message-text">
+						Same here. <br><br>And I have that same problem like the person who posted this thread: using the pot in the middle of the night, half asleep, and the moment that ice cold toilet seat hits your ass.... It's brutal.
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=0wrPrGWF6LS0kgVSpBs6TA">
+				<img class="photo-img" alt="Photo of Eye D." height="40" src="http://s3-media3.ak.yelpcdn.com/photo/DMTnDqbO531QC7ZX_3sTYg/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 71 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 2 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							10/31/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="asQ68k1WOwe9AhW8UIeCcw"></a>
+					<a href="/user_details?userid=0wrPrGWF6LS0kgVSpBs6TA">Eye "Insipid Lipid Panel" D.</a> says:
+					<p class="message-text">
+						And I know that it was John in accounting that pulled the no clean diarrhea shit.  Imma confront him about it at our Christmas party once I have a few drinks in me.
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=enanGZo2jQR4X23kqCPQ2g">
+				<img class="photo-img" alt="Photo of Lala H." height="40" src="http://s3-media4.ak.yelpcdn.com/photo/3dQIVT6xqZTEuML1YT2_hw/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 87 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 16 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							10/31/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="OL4aM61vyg2AU-bIpljZhA"></a>
+					<a href="/user_details?userid=enanGZo2jQR4X23kqCPQ2g">Lala "Perfectly Imperfect" H.</a> says:
+					<p class="message-text">
+						Lol @ eye. <br><br>The other day I was at a restaurant and the person in the next stall let out a huge one before she tinkled.
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=5CZNvfYNoF6KCTixXU0RDQ">
+				<img class="photo-img" alt="Photo of N O." height="40" src="http://s3-media3.ak.yelpcdn.com/photo/CZBaaxjU7CUQgMCcvXETrQ/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 169 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 18 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							10/31/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="gNN06YjwAh5xLkFdBWRuaw"></a>
+					<a href="/user_details?userid=5CZNvfYNoF6KCTixXU0RDQ">N O.</a> says:
+					<p class="message-text">
+						My responsibility for looking at the toilet is indirectly proportional to the amount of alcohol I have consumed...
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=445DDtqLQdWwYRXcTIDS5g">
+				<img class="photo-img" alt="Photo of C B." height="40" src="http://s3-media4.ak.yelpcdn.com/photo/PXMvva99fg9ld6zFtyHs6g/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 168 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 29 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							10/31/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="tjDvrCbD6QmmlYxq02zFiA"></a>
+					<a href="/user_details?userid=445DDtqLQdWwYRXcTIDS5g">C &#34;chubbybunny&#34; B.</a> says:
+					<p class="message-text">
+						Dude there are women at work who have no issue with audible grunting in the stall. So nasty.
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+					
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="#">
+				<img class="photo-img" alt="" height="40" src="http://s3-media3.ak.yelpcdn.com/assets/2/www/img/7eb06b6a9db5/gfx/blank_user_small.gif" width="40">
+			</a>
+	</div>
+
+				</div>
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							10/31/2012
+
+				</span>
+				<a name="QPz7STSzkC6uYylDU7DAmQ"></a>
+						<br />
+						<p class="removed_message">	This Yelper's account has been closed.
+</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=enanGZo2jQR4X23kqCPQ2g">
+				<img class="photo-img" alt="Photo of Lala H." height="40" src="http://s3-media4.ak.yelpcdn.com/photo/3dQIVT6xqZTEuML1YT2_hw/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 87 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 16 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							10/31/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="Emyl1IXrh89AKYbnMFUu1g"></a>
+					<a href="/user_details?userid=enanGZo2jQR4X23kqCPQ2g">Lala "Perfectly Imperfect" H.</a> says:
+					<p class="message-text">
+						^ it's gross. Especially when they have the runs or let out... Wet gas. Smdh
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=srkQxoRn7CkykbyZwTLTog">
+				<img class="photo-img" alt="Photo of Chub Z." height="40" src="http://s3-media4.ak.yelpcdn.com/photo/4R6ccZ4jGu1DcG2osYJjxg/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 16 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 3 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							10/31/2012
+
+				</span>
+				<a name="CM9ppCVQBoT9IP-7skcdTQ"></a>
+					<a href="/user_details?userid=srkQxoRn7CkykbyZwTLTog">Chub Z.</a> says:
+					<p class="message-text">
+						I'll never understand how women can just put their ass somewhere without looking.
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=445DDtqLQdWwYRXcTIDS5g">
+				<img class="photo-img" alt="Photo of C B." height="40" src="http://s3-media4.ak.yelpcdn.com/photo/PXMvva99fg9ld6zFtyHs6g/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 168 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 29 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							10/31/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="Uv6Zh9Wwqac3tnxMkeAMsg"></a>
+					<a href="/user_details?userid=445DDtqLQdWwYRXcTIDS5g">C &#34;chubbybunny&#34; B.</a> says:
+					<p class="message-text">
+						I get that people can't control bodily stuff but the panting and groaning... Christ i dont even do that at home lol
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+					
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="#">
+				<img class="photo-img" alt="" height="40" src="http://s3-media3.ak.yelpcdn.com/assets/2/www/img/7eb06b6a9db5/gfx/blank_user_small.gif" width="40">
+			</a>
+	</div>
+
+				</div>
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							10/31/2012
+
+				</span>
+				<a name="d4hul7lt6jk3EL7HdDt0WQ"></a>
+						<br />
+						<p class="removed_message">	This Yelper's account has been closed.
+</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=enanGZo2jQR4X23kqCPQ2g">
+				<img class="photo-img" alt="Photo of Lala H." height="40" src="http://s3-media4.ak.yelpcdn.com/photo/3dQIVT6xqZTEuML1YT2_hw/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 87 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 16 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							10/31/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="xRpD6TgoEMoxhiBRGxtBSg"></a>
+					<a href="/user_details?userid=enanGZo2jQR4X23kqCPQ2g">Lala "Perfectly Imperfect" H.</a> says:
+					<p class="message-text">
+						Not enough fiber and water intake in their diet I suppose. Which leads to impaction/constipation. The panting and groaning promotes stool to pass the sigmoid colon.<br><br>Isn't that how Elvis died?
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=445DDtqLQdWwYRXcTIDS5g">
+				<img class="photo-img" alt="Photo of C B." height="40" src="http://s3-media4.ak.yelpcdn.com/photo/PXMvva99fg9ld6zFtyHs6g/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 168 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 29 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							10/31/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="3u4QHOjiTOASDLDL53l2-g"></a>
+					<a href="/user_details?userid=445DDtqLQdWwYRXcTIDS5g">C &#34;chubbybunny&#34; B.</a> says:
+					<p class="message-text">
+						Yes barney, women shit just as disgustingly as men sometimes. I'm sorry you had to find out this way.
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=enanGZo2jQR4X23kqCPQ2g">
+				<img class="photo-img" alt="Photo of Lala H." height="40" src="http://s3-media4.ak.yelpcdn.com/photo/3dQIVT6xqZTEuML1YT2_hw/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 87 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 16 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							10/31/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="ls4gYhBEu3hv0az7FB7-cA"></a>
+					<a href="/user_details?userid=enanGZo2jQR4X23kqCPQ2g">Lala "Perfectly Imperfect" H.</a> says:
+					<p class="message-text">
+						Barney went from turtle to shrimp
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=0wrPrGWF6LS0kgVSpBs6TA">
+				<img class="photo-img" alt="Photo of Eye D." height="40" src="http://s3-media3.ak.yelpcdn.com/photo/DMTnDqbO531QC7ZX_3sTYg/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 71 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 2 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							10/31/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="4npIIzachjLd-ir8HxMM4Q"></a>
+					<a href="/user_details?userid=0wrPrGWF6LS0kgVSpBs6TA">Eye "Insipid Lipid Panel" D.</a> says:
+					<p class="message-text">
+						I thought women just panted and moaned softly while the shit flowed ever so gently from their ass...didn't think theyd sound like the 49ers offensive line during a key play.
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=445DDtqLQdWwYRXcTIDS5g">
+				<img class="photo-img" alt="Photo of C B." height="40" src="http://s3-media4.ak.yelpcdn.com/photo/PXMvva99fg9ld6zFtyHs6g/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 168 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 29 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							10/31/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="RiNyzQMDBmOZTf8oGOKmNg"></a>
+					<a href="/user_details?userid=445DDtqLQdWwYRXcTIDS5g">C &#34;chubbybunny&#34; B.</a> says:
+					<p class="message-text">
+						I'm gonna do lamaze breathing next time.
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+					
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="#">
+				<img class="photo-img" alt="" height="40" src="http://s3-media3.ak.yelpcdn.com/assets/2/www/img/7eb06b6a9db5/gfx/blank_user_small.gif" width="40">
+			</a>
+	</div>
+
+				</div>
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							10/31/2012
+
+				</span>
+				<a name="pxZRG1safjjZ_4jra9AfYg"></a>
+						<br />
+						<p class="removed_message">	This Yelper's account has been closed.
+</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=445DDtqLQdWwYRXcTIDS5g">
+				<img class="photo-img" alt="Photo of C B." height="40" src="http://s3-media4.ak.yelpcdn.com/photo/PXMvva99fg9ld6zFtyHs6g/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 168 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 29 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							10/31/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="XRnMUc229sVjq1i33K-61A"></a>
+					<a href="/user_details?userid=445DDtqLQdWwYRXcTIDS5g">C &#34;chubbybunny&#34; B.</a> says:
+					<p class="message-text">
+						Lololol eye
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=enanGZo2jQR4X23kqCPQ2g">
+				<img class="photo-img" alt="Photo of Lala H." height="40" src="http://s3-media4.ak.yelpcdn.com/photo/3dQIVT6xqZTEuML1YT2_hw/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 87 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 16 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							10/31/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="ns35Kudfm2tb2eqGPshMHA"></a>
+					<a href="/user_details?userid=enanGZo2jQR4X23kqCPQ2g">Lala "Perfectly Imperfect" H.</a> says:
+					<p class="message-text">
+						This will make you think twice about doing anal next time
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=445DDtqLQdWwYRXcTIDS5g">
+				<img class="photo-img" alt="Photo of C B." height="40" src="http://s3-media4.ak.yelpcdn.com/photo/PXMvva99fg9ld6zFtyHs6g/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 168 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 29 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							10/31/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="hNX0Ef9mbN_5h-z49ZO35w"></a>
+					<a href="/user_details?userid=445DDtqLQdWwYRXcTIDS5g">C &#34;chubbybunny&#34; B.</a> says:
+					<p class="message-text">
+						Not much stops a dude from wanting anal lol
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=enanGZo2jQR4X23kqCPQ2g">
+				<img class="photo-img" alt="Photo of Lala H." height="40" src="http://s3-media4.ak.yelpcdn.com/photo/3dQIVT6xqZTEuML1YT2_hw/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 87 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 16 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							10/31/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="uzPlbmcOE8QbUjTTBNNXcg"></a>
+					<a href="/user_details?userid=enanGZo2jQR4X23kqCPQ2g">Lala "Perfectly Imperfect" H.</a> says:
+					<p class="message-text">
+						*cringes*
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+					
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="#">
+				<img class="photo-img" alt="" height="40" src="http://s3-media3.ak.yelpcdn.com/assets/2/www/img/7eb06b6a9db5/gfx/blank_user_small.gif" width="40">
+			</a>
+	</div>
+
+				</div>
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							10/31/2012
+
+				</span>
+				<a name="2mnZLYpvI6omoULvYlhy2g"></a>
+						<br />
+						<p class="removed_message">	This Yelper's account has been closed.
+</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=0wrPrGWF6LS0kgVSpBs6TA">
+				<img class="photo-img" alt="Photo of Eye D." height="40" src="http://s3-media3.ak.yelpcdn.com/photo/DMTnDqbO531QC7ZX_3sTYg/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 71 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 2 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							10/31/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="pFuAfXPNkS7IkkXHBoyUwg"></a>
+					<a href="/user_details?userid=0wrPrGWF6LS0kgVSpBs6TA">Eye "Insipid Lipid Panel" D.</a> says:
+					<p class="message-text">
+						Dude, I WANT her to take a dump before anal.  And I don't care how much noise she makes in the bathroom (just spray some Glade around after you are done)
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=enanGZo2jQR4X23kqCPQ2g">
+				<img class="photo-img" alt="Photo of Lala H." height="40" src="http://s3-media4.ak.yelpcdn.com/photo/3dQIVT6xqZTEuML1YT2_hw/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 87 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 16 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							10/31/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="iojYXzv-_T69fkh92xiIDA"></a>
+					<a href="/user_details?userid=enanGZo2jQR4X23kqCPQ2g">Lala "Perfectly Imperfect" H.</a> says:
+					<p class="message-text">
+						^i heard pooping before doing anal leaves streak marks
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=srkQxoRn7CkykbyZwTLTog">
+				<img class="photo-img" alt="Photo of Chub Z." height="40" src="http://s3-media4.ak.yelpcdn.com/photo/4R6ccZ4jGu1DcG2osYJjxg/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 16 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 3 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							10/31/2012
+
+				</span>
+				<a name="q-n_Ovu7GCihXvsBBDa-vg"></a>
+					<a href="/user_details?userid=srkQxoRn7CkykbyZwTLTog">Chub Z.</a> says:
+					<p class="message-text">
+						Just remembered a Bridgette Kerkove scene where a poo fell out and the dude just went right back in like it was nothing.
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=445DDtqLQdWwYRXcTIDS5g">
+				<img class="photo-img" alt="Photo of C B." height="40" src="http://s3-media4.ak.yelpcdn.com/photo/PXMvva99fg9ld6zFtyHs6g/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 168 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 29 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							10/31/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="7hkHhuZtsAMpXOoYzhHuwA"></a>
+					<a href="/user_details?userid=445DDtqLQdWwYRXcTIDS5g">C &#34;chubbybunny&#34; B.</a> says:
+					<p class="message-text">
+						Anyone keep babywipes near the toilet? I love my wipez!
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=445DDtqLQdWwYRXcTIDS5g">
+				<img class="photo-img" alt="Photo of C B." height="40" src="http://s3-media4.ak.yelpcdn.com/photo/PXMvva99fg9ld6zFtyHs6g/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 168 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 29 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							10/31/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="exI8w-1zX9gNYny8-uxTnA"></a>
+					<a href="/user_details?userid=445DDtqLQdWwYRXcTIDS5g">C &#34;chubbybunny&#34; B.</a> says:
+					<p class="message-text">
+						Oh chub. Lol
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=xdlG3pDeeOCsdkqvYZh23A">
+				<img class="photo-img" alt="Photo of Krissy K." height="40" src="http://s3-media1.ak.yelpcdn.com/photo/6RniuR_1icLHgwKrOyCZ9w/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 110 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 7 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							10/31/2012
+
+				</span>
+				<a name="gH8t5fnbh2hRpmgN9re4xQ"></a>
+					<a href="/user_details?userid=xdlG3pDeeOCsdkqvYZh23A">Krissy "Boner Slayer" K.</a> says:
+					<p class="message-text">
+						There's this guy at work, looks like a cross between David Crosby and that Mario lookin bastard from the old Doritos commercials.  Dude does serious damage.<br><br>I think he shits the grease from KFC by the bucket load.
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=enanGZo2jQR4X23kqCPQ2g">
+				<img class="photo-img" alt="Photo of Lala H." height="40" src="http://s3-media4.ak.yelpcdn.com/photo/3dQIVT6xqZTEuML1YT2_hw/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 87 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 16 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							10/31/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="IeFYU7eCnjiaE9_GDk9qeg"></a>
+					<a href="/user_details?userid=enanGZo2jQR4X23kqCPQ2g">Lala "Perfectly Imperfect" H.</a> says:
+					<p class="message-text">
+						*gag*
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=NEfnQRJrtbRgqWC_2cTk3Q">
+				<img class="photo-img" alt="Photo of H O." height="40" src="http://s3-media3.ak.yelpcdn.com/photo/J7majg637zwQVWNlDV7qBw/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 3 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 0 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							10/31/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="DI3NE35CId5wlJmCOqoCUA"></a>
+					<a href="/user_details?userid=NEfnQRJrtbRgqWC_2cTk3Q">H O.</a> says:
+					<p class="message-text">
+						See, this is why I put together my man bag, carry necessities like wet wipes
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=0wrPrGWF6LS0kgVSpBs6TA">
+				<img class="photo-img" alt="Photo of Eye D." height="40" src="http://s3-media3.ak.yelpcdn.com/photo/DMTnDqbO531QC7ZX_3sTYg/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 71 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 2 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							10/31/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="u-Bw0PRONRoqLOG_39jF1g"></a>
+					<a href="/user_details?userid=0wrPrGWF6LS0kgVSpBs6TA">Eye "Insipid Lipid Panel" D.</a> says:
+					<p class="message-text">
+						Of course with anal play, there's poopie involved.  Just keep a warm wet towel around.  What do you expect, you are ass fucking.
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=enanGZo2jQR4X23kqCPQ2g">
+				<img class="photo-img" alt="Photo of Lala H." height="40" src="http://s3-media4.ak.yelpcdn.com/photo/3dQIVT6xqZTEuML1YT2_hw/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 87 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 16 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							10/31/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="k1E1AsM77FJTeTi0f3uGYg"></a>
+					<a href="/user_details?userid=enanGZo2jQR4X23kqCPQ2g">Lala "Perfectly Imperfect" H.</a> says:
+					<p class="message-text">
+						Huggies
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=enanGZo2jQR4X23kqCPQ2g">
+				<img class="photo-img" alt="Photo of Lala H." height="40" src="http://s3-media4.ak.yelpcdn.com/photo/3dQIVT6xqZTEuML1YT2_hw/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 87 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 16 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							10/31/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="qFXg_rfgGX6oQLyDqGEvaA"></a>
+					<a href="/user_details?userid=enanGZo2jQR4X23kqCPQ2g">Lala "Perfectly Imperfect" H.</a> says:
+					<p class="message-text">
+						Idk how a guy doesn't shrivel up to even the thought of a poopie being involved in inter course
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=qPGhjScyxtuHrWXN4A8VXg">
+				<img class="photo-img" alt="Photo of Loli L." height="40" src="http://s3-media3.ak.yelpcdn.com/photo/gCMc7fkGWnEv10yhLxziKg/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 203 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 854 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							10/31/2012
+
+				</span>
+				<a name="SpAGDmzsUP6bm5gEYDJ_mg"></a>
+					<a href="/user_details?userid=qPGhjScyxtuHrWXN4A8VXg">Loli "the innocent one" L.</a> says:
+					<p class="message-text">
+						Meryem E. says:<br><br>That awkward moment when you are half asleep and sleep walking your way to the toilet to find your ass sitting on a cushiony seat  instead of the bare ceramic toilet!!!! Why?why?why???? <br>------------------------------­----------<br>fixed!
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=6QN6BdpcDKXNS9Xq_7pECQ">
+				<img class="photo-img" alt="Photo of F U." height="40" src="http://s3-media4.ak.yelpcdn.com/photo/rxNxgYpCJF-jqMZgHsoz7Q/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 156 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 634 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							11/1/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="vzhuvFfL6UyBOY2F86s-cA"></a>
+					<a href="/user_details?userid=6QN6BdpcDKXNS9Xq_7pECQ">F &#34;kneel!&#34; U.</a> says:
+					<p class="message-text">
+						Ryan gosling sits down to pee. 'Nuff said
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=sxkPlNKb-fwdysbKgjvaiQ">
+				<img class="photo-img" alt="Photo of Diana P." height="40" src="http://s3-media2.ak.yelpcdn.com/photo/16nL4DNv028V3AlUv4Lc-w/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 47 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 12 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							11/1/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="-qYswXXK4NuRq9iJ0pSpzg"></a>
+					<a href="/user_details?userid=sxkPlNKb-fwdysbKgjvaiQ">Diana "Some Brown Chick" P.</a> says:
+					<p class="message-text">
+						Apparently, us humans are suppose to squat when we poop. I just learned this on Sunday.
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=sxkPlNKb-fwdysbKgjvaiQ">
+				<img class="photo-img" alt="Photo of Diana P." height="40" src="http://s3-media2.ak.yelpcdn.com/photo/16nL4DNv028V3AlUv4Lc-w/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 47 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 12 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							11/1/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="4Y46uwsZvohf2rtzCLcY7w"></a>
+					<a href="/user_details?userid=sxkPlNKb-fwdysbKgjvaiQ">Diana "Some Brown Chick" P.</a> says:
+					<p class="message-text">
+						I forgot to use a wet, warm towel last time. Got flecks all over my white bra. The woes of topping.
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=lrXv78aSAQj6AFje3yKBWQ">
+				<img class="photo-img" alt="Photo of Bruce C." height="40" src="http://s3-media1.ak.yelpcdn.com/photo/702onO03tNaDReNZ4j0KVQ/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 10 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 0 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							11/1/2012
+
+				</span>
+				<a name="1qln2xtWYUiS9m6uh6z8jQ"></a>
+					<a href="/user_details?userid=lrXv78aSAQj6AFje3yKBWQ">Bruce "is down to FU" C.</a> says:
+					<p class="message-text">
+						O.o
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=xjR3gOr834aaKKZMlcnpFQ">
+				<img class="photo-img" alt="Photo of B H." height="40" src="http://s3-media4.ak.yelpcdn.com/photo/sk0-mi2o8O-RgHMKu8cr_Q/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 174 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 149 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							11/1/2012
+
+				</span>
+				<a name="DXaFve_RiFHkwZoDmayLUA"></a>
+					<a href="/user_details?userid=xjR3gOr834aaKKZMlcnpFQ">B &#34;acon Ranc&#34; H.</a> says:
+					<p class="message-text">
+						wo this thread went straight to the krapper!
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+					
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="#">
+				<img class="photo-img" alt="" height="40" src="http://s3-media3.ak.yelpcdn.com/assets/2/www/img/7eb06b6a9db5/gfx/blank_user_small.gif" width="40">
+			</a>
+	</div>
+
+				</div>
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							11/1/2012
+
+				</span>
+				<a name="m2LXcA1_vghP9Rb6xC5c3A"></a>
+						<br />
+						<p class="removed_message">	This Yelper's account has been closed.
+</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=Lu8y2ayxVlAzuJEVfVcH4w">
+				<img class="photo-img" alt="Photo of Rebekah T." height="40" src="http://s3-media3.ak.yelpcdn.com/photo/mdw_f-wjTRhBHNbCLIGl5Q/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+			<li class="is-elite">
+				<a class="miniOrange" href="http://www.yelp.com/elite" title="User is Elite">Elite '12</a>
+			</li>
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 2705 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 1135 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							11/1/2012
+
+				</span>
+				<a name="RqamKqrs1j-awAvtMRYsPA"></a>
+					<a href="/user_details?userid=Lu8y2ayxVlAzuJEVfVcH4w">Rebekah &#34;Cookie&#34; T.</a> says:
+					<p class="message-text">
+						My grandma also had one of those plastic cushion ones that made a pfffft sound when you sat on it. <br><br>But the most awesome thing was the Barbie in Crocheted dress toliet paper cozy.
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=EWPaoGV4oOEfJW-Yr5GZDQ">
+				<img class="photo-img" alt="Photo of Tim S." height="40" src="http://s3-media4.ak.yelpcdn.com/photo/27ZwJqLSn_CW8v4NGuV7TA/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 7 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 6 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							11/1/2012
+
+				</span>
+				<a name="ZArLl3dzUb9Bz8yDF15GSw"></a>
+					<a href="/user_details?userid=EWPaoGV4oOEfJW-Yr5GZDQ">Tim S.</a> says:
+					<p class="message-text">
+						F a cushioned toilet seat, I want the cold, hard truth.
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=4daYVVVWOtlZyTeJXpQ5UQ">
+				<img class="photo-img" alt="Photo of Nate T." height="40" src="http://s3-media3.ak.yelpcdn.com/photo/x6jSVgMdKormM-bVXvPgbA/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 0 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 8 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							11/1/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="iKCQCWOUgcf-Tu0CRLvE2A"></a>
+					<a href="/user_details?userid=4daYVVVWOtlZyTeJXpQ5UQ">Nate &#34;zi0oi&#34; T.</a> says:
+					<p class="message-text">
+						That must suck ass
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=qPGhjScyxtuHrWXN4A8VXg">
+				<img class="photo-img" alt="Photo of Loli L." height="40" src="http://s3-media3.ak.yelpcdn.com/photo/gCMc7fkGWnEv10yhLxziKg/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 203 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 854 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							11/1/2012
+
+				</span>
+				<a name="RX_SbHRUxgRLzPeoQeZUng"></a>
+					<a href="/user_details?userid=qPGhjScyxtuHrWXN4A8VXg">Loli "the innocent one" L.</a> says:
+					<p class="message-text">
+						Rebekah "Cookie" T. says: <br>My grandma also had one of those plastic cushion ones that made a pfffft sound when you sat on it. <br>------------------------------­------<br>omg! I totally remember that sound!!
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=-K2Tcgh2EKX6e6HqqIrBIQ">
+				<img class="photo-img" alt="Photo of Patricia H." height="40" src="http://s3-media4.ak.yelpcdn.com/photo/z7K2KCrmnZ6jUuDLRkpBDA/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 222 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 977 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							11/1/2012
+
+				</span>
+				<a name="LfGqQlkm7zrZIyH_Vvi8tQ"></a>
+					<a href="/user_details?userid=-K2Tcgh2EKX6e6HqqIrBIQ">Patricia "Hon of Hons" H.</a> says:
+					<p class="message-text">
+						Beks, my aunt crotcheted poodles cozies to go over the toilet paper.  They had those jiggly little eyes.
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=3EFzoB6M3fDihIbe_tiM1w">
+				<img class="photo-img" alt="Photo of Ché D." height="40" src="http://s3-media1.ak.yelpcdn.com/photo/N-8yIeSTHtaNl4yJKu3Kng/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 167 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 98 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							11/1/2012
+
+				</span>
+				<a name="SQaZ_3E2Cxkss8E2x7SutQ"></a>
+					<a href="/user_details?userid=3EFzoB6M3fDihIbe_tiM1w">Ché &#34;Vitriholic&#34; D.</a> says:
+					<p class="message-text">
+						'crotcheted'<br><br>heh heh heh heh heh heh heh............
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=mHjbNKpJaAcyElR12sP6lQ">
+				<img class="photo-img" alt="Photo of R J." height="40" src="http://s3-media3.ak.yelpcdn.com/photo/tY7U9jVy84iRBEBpV-DxmQ/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 0 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 15 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							11/1/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="G3gCeRCbTidopNOsyFn02g"></a>
+					<a href="/user_details?userid=mHjbNKpJaAcyElR12sP6lQ">R J.</a> says:
+					<p class="message-text">
+						lol at the pfffffffft sound!
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=xjR3gOr834aaKKZMlcnpFQ">
+				<img class="photo-img" alt="Photo of B H." height="40" src="http://s3-media4.ak.yelpcdn.com/photo/sk0-mi2o8O-RgHMKu8cr_Q/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 174 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 149 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							11/6/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="6Rs7TYkxLaV9EKlNOrLNXQ"></a>
+					<a href="/user_details?userid=xjR3gOr834aaKKZMlcnpFQ">B &#34;acon Ranc&#34; H.</a> says:
+					<p class="message-text">
+						Whoa I&#39;m dying hahHa
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=qaq8oi3U7wc6J_Te6VbtwA">
+				<img class="photo-img" alt="Photo of Maureen M." height="40" src="http://s3-media4.ak.yelpcdn.com/photo/VlJEWAbWxIjW8pJEvMuE4Q/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 295 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 272 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							11/6/2012
+
+				</span>
+				<a name="1w1dZCTPacHaDoxpTkjSzg"></a>
+					<a href="/user_details?userid=qaq8oi3U7wc6J_Te6VbtwA">Maureen "A Legend In My Own Mind" M.</a> says:
+					<p class="message-text">
+						my mom made the ones that were barbie dolls with southern dresses.<br><br>and the googledy eyes.....<br><br>"hey, mom!  the toilet paper is getting cold!"
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=445DDtqLQdWwYRXcTIDS5g">
+				<img class="photo-img" alt="Photo of C B." height="40" src="http://s3-media4.ak.yelpcdn.com/photo/PXMvva99fg9ld6zFtyHs6g/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 168 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 29 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							11/6/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="5-W9MrTOUkXOWnaReQrhrg"></a>
+					<a href="/user_details?userid=445DDtqLQdWwYRXcTIDS5g">C &#34;chubbybunny&#34; B.</a> says:
+					<p class="message-text">
+						Lol
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+					
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="#">
+				<img class="photo-img" alt="" height="40" src="http://s3-media3.ak.yelpcdn.com/assets/2/www/img/7eb06b6a9db5/gfx/blank_user_small.gif" width="40">
+			</a>
+	</div>
+
+				</div>
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							11/6/2012
+
+				</span>
+				<a name="_M4-MNHsuAAXndQg6trX_Q"></a>
+						<br />
+						<p class="removed_message">	This Yelper's account has been closed.
+</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=vWrdVjjM9k4kWw6Tm7fwNg">
+				<img class="photo-img" alt="Photo of David P." height="40" src="http://s3-media1.ak.yelpcdn.com/photo/fUROAQ-L92KQiHq9E-Ybqg/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 89 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 29 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							11/6/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="KBL70aOoxtSR-RsHs4uyVw"></a>
+					<a href="/user_details?userid=vWrdVjjM9k4kWw6Tm7fwNg">David P.</a> says:
+					<p class="message-text">
+						Good mornifications. I'm about to vote.
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=vWrdVjjM9k4kWw6Tm7fwNg">
+				<img class="photo-img" alt="Photo of David P." height="40" src="http://s3-media1.ak.yelpcdn.com/photo/fUROAQ-L92KQiHq9E-Ybqg/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 89 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 29 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							11/6/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="N82qkOxDiU6UhvqRaMnR2Q"></a>
+					<a href="/user_details?userid=vWrdVjjM9k4kWw6Tm7fwNg">David P.</a> says:
+					<p class="message-text">
+						I wrote in Barney for President. He can handle the toiket seat dilemma.
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=kxyC0GCqFM2UOfNlF3SWRA">
+				<img class="photo-img" alt="Photo of Patrick T." height="40" src="http://s3-media4.ak.yelpcdn.com/photo/guAAa3haORg4RpdxOzprRw/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 93 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 7 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							11/6/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="XSqDhhDQYzFFh5Igw4QvEA"></a>
+					<a href="/user_details?userid=kxyC0GCqFM2UOfNlF3SWRA">Patrick &#34;Snakebone&#34; T.</a> says:
+					<p class="message-text">
+						I wrote him in for Harbor Commissioner. I hope he likes boats
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=vWrdVjjM9k4kWw6Tm7fwNg">
+				<img class="photo-img" alt="Photo of David P." height="40" src="http://s3-media1.ak.yelpcdn.com/photo/fUROAQ-L92KQiHq9E-Ybqg/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 89 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 29 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							11/6/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="8MFTyUuHiPF_U06_cOX64w"></a>
+					<a href="/user_details?userid=vWrdVjjM9k4kWw6Tm7fwNg">David P.</a> says:
+					<p class="message-text">
+						Good thinking Patrick! Barney can dredge like nobody's business!
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=4VWpWElnEa20ftJmRv7rMg">
+				<img class="photo-img" alt="Photo of Mister B." height="40" src="http://s3-media4.ak.yelpcdn.com/photo/k7JrulGaBugVBG1pWNORuA/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 37 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 12 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							11/6/2012
+
+				</span>
+				<a name="pUw8bO4ZUvD17GrrAt9WJw"></a>
+					<a href="/user_details?userid=4VWpWElnEa20ftJmRv7rMg">Mister &#34;Birdman&#34; B.</a> says:
+					<p class="message-text">
+						I have to admit when I'm half dead @ 4am 'seeing a man about a horse' I'll walk into the bathroom and squat because A.) I'm tired as shit B.) I don't want to run into the walls on the way back to bed once I shut them lights off.  And although I've been doing it all my life, I've yet to successfully piss in the dark and not get it all over the toilet and/or the floor.
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=nP2x3UWyl-03eJVhqE0c-g">
+				<img class="photo-img" alt="Photo of francisco r." height="40" src="http://s3-media4.ak.yelpcdn.com/photo/-ntzDf-2Md8s85gONFJfEg/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 25 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 8 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							11/6/2012
+
+				</span>
+				<a name="sPeh8_CFgLOVdP6GOjv92Q"></a>
+					<a href="/user_details?userid=nP2x3UWyl-03eJVhqE0c-g">francisco "Cattle Flunky" r.</a> says:
+					<p class="message-text">
+						Mister "Birdman" B.-Me and a friend of mine once walked into a dark bathroom together and we wound up pissing on each other. The hard part was explaining to people that the urine on my pants wasn't mine.
+					</p>
+
+</div>
+</div>
+				</li>
+				<li class="topic_reply clearfix ">
+					<div class="clearfix media-block media-block-no-margin">
+<div class="media-avatar">
+				<div class="user-passport">
+		
+
+
+
+	<div class="photo-box pb-ss" >
+			<a href="http://www.yelp.com/user_details?userid=k-j4gWrLUSFNZrCZgS115A">
+				<img class="photo-img" alt="Photo of John P." height="40" src="http://s3-media4.ak.yelpcdn.com/photo/6kvn1z4FhbgEsrLKyids5g/ss.jpg" width="40">
+			</a>
+	</div>
+
+		<ul class="user-stats">
+		<li class="friend-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-friends-orange-common-wrap"><i  class="i ig-common i-friends-orange-common"></i> 738 <span class="offscreen">friends</span></span>
+		</li>
+		<li class="review-count miniOrange">
+			<span  class="i-wrap ig-wrap-common i-user-review-count-common-wrap"><i  class="i ig-common i-user-review-count-common"></i> 191 <span class="offscreen">reviews</span></span>
+		</li>
+	</ul>
+
+
+</div>
+
+
+</div><div class="media-story">
+				<span class="floatLink formNote">
+							11/6/2012
+
+					<span class="mobile-details">
+					from <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284910350&amp;mt=8">Yelp for iPhone</a>
+					</span>
+				</span>
+				<a name="c053YeOGC08M5xyi8X0g9g"></a>
+					<a href="/user_details?userid=k-j4gWrLUSFNZrCZgS115A">John "Dobie The Man on The Silver Mountain" P.</a> says:
+					<p class="message-text">
+						What&#39;s a toilet?
+					</p>
+
+</div>
+</div>
+				</li>
+		</ol>
+	<div id="topic-flag-subscribe" class="clearfix">
+				<form action="/talk/subscribe_confirm" class="email-notify-form" method="POST">
+<input type="hidden" class="csrftok" name="csrftok" value="9dd304da82241433741a8a183f0132b795576a2c0e476213bb23e692adeef5a1">
+		<input type="hidden" name="topic_id" value="srt3uqZCFXkKCrLeZdCwSw">
+		<button type="submit" class="i-wrap ig-wrap-common i-envelope-common-wrap strong_pseudolink"><i  class="i ig-common i-envelope-common"></i> Get email updates about this conversation</button>
+
+</form>
+		<p id="flag_conversation">
+			<a href="/flag_content?flag_id=srt3uqZCFXkKCrLeZdCwSw&amp;flag_message=+&amp;flag_type=topic&amp;previous_url=%2Ftopic%2Foakland-toilet-seat-dilemma" class="i-wrap ig-wrap-common i-flag-common-wrap"><i  class="i ig-common i-flag-common"></i> Flag conversation as inappropriate</a>
+		</p>
+	</div>
+	<p class="floatLink smaller">
+		<a name="pageBottom"></a><a href="#page-top">Page Top &uarr;</a>
+	</p>
+		<a href="/login?return_url=%2Ftopic%2Foakland-toilet-seat-dilemma" class="ybtn ybtn-primary ybtn-small">Reply</a>
+
+
+</div>
+
+</div>
+</div>			</div>
+
+
+			<!-- google_ad_section_start(weight=ignore) -->
+<!-- <a href="/biz/outlook-autumn-market-fundamental-catwalk-flimsy-roost-legibility-individualism-grocer-predestination-8">yelp</a> -->
+<div id="footer" class="webview-hidden">
+	<div id="footer-menu-wrap" class="clearfix">
+		<div class="footer-menu clearfix first">
+			<h4>About</h4>
+			<ul>
+				<li>
+					<a href="/about">About Yelp</a>
+				</li>
+				<li>
+					<a href="http://officialblog.yelp.com">Yelp Blog</a>
+				</li>
+				<li>
+					<a href="http://www.yelp-press.com/">Press</a>
+				</li>
+				<li>
+					<a href="http://www.yelp-ir.com/">Investor Relations</a>
+				</li>
+				<li>
+					<a href="/static?p=tos&amp;country=US">Terms of Service</a>
+				</li>
+				<li>
+					<a href="/static?p=privacy&amp;country=US">Privacy Policy</a>
+				</li>
+			</ul>
+		</div>
+
+		<div class="footer-menu clearfix">
+			<h4>Help</h4>
+			<ul>
+				<li>
+					<a href="/faq">FAQ</a>
+				</li>
+				<li>
+					<a href="/advertise">Advertise</a>
+				</li>
+				<li>
+					<a href="/guidelines">Content Guidelines</a>
+				</li>
+				<li>
+					<a href="/contact">Contact Yelp</a>
+				</li>
+					<li>
+						<a href="https://biz.yelp.com/support">Business Support</a>
+					</li>
+				<li>
+					<a href="http://www.yelp.com/developers">Developers</a>
+				</li>
+			</ul>
+		</div>
+
+		<div class="footer-menu clearfix">
+			<h4>More</h4>
+			<ul>
+				<li>
+					<a href="/careers?country=US">Careers</a>
+				</li>
+				<li>
+						<a href="/yelpmobile">Yelp Mobile</a>
+				</li>
+					<li>
+						<a href="/weekly">The Weekly Yelp</a>
+					</li>
+					<li>
+						<a href="/store">Yelp Apparel</a>
+					</li>
+				<li>
+					<a href="/rss">RSS</a>
+				</li>
+					<li>
+						<a href="/topsearches">Top Searches</a>
+					</li>
+			</ul>
+		</div>
+
+		<div id="countries-menu" class="footer-menu clearfix">
+			<h4>Countries</h4>
+				<ul>
+						<li>
+							<a href="http://www.yelp.com.au/">Australia</a>
+						</li>
+						<li>
+							<a href="http://www.yelp.at/">Austria</a>
+						</li>
+						<li>
+							<a href="http://fr.yelp.be/">Belgium</a>
+						</li>
+						<li>
+							<a href="http://www.yelp.ca/">Canada</a>
+						</li>
+						<li>
+							<a href="http://www.yelp.dk/">Denmark</a>
+						</li>
+						<li>
+							<a href="http://fi.yelp.fi/">Finland</a>
+						</li>
+						<li>
+							<a href="http://www.yelp.fr/">France</a>
+						</li>
+						<li>
+							<a href="http://www.yelp.de/">Germany</a>
+						</li>
+						<li>
+							<a href="http://www.yelp.ie/">Ireland</a>
+						</li>
+						<li>
+							<a href="http://www.yelp.it/">Italy</a>
+						</li>
+				</ul>
+				<ul>
+						<li>
+							<a href="http://www.yelp.no/">Norway</a>
+						</li>
+						<li>
+							<a href="http://www.yelp.pl/">Poland</a>
+						</li>
+						<li>
+							<a href="http://www.yelp.com.sg/">Singapore</a>
+						</li>
+						<li>
+							<a href="http://www.yelp.es/">Spain</a>
+						</li>
+						<li>
+							<a href="http://www.yelp.se/">Sweden</a>
+						</li>
+						<li>
+							<a href="http://de.yelp.ch/">Switzerland</a>
+						</li>
+						<li>
+							<a href="http://www.yelp.nl/">The Netherlands</a>
+						</li>
+						<li>
+							<a href="http://www.yelp.com.tr/">Turkey</a>
+						</li>
+						<li>
+							<a href="http://www.yelp.co.uk/">United Kingdom</a>
+						</li>
+				</ul>
+		</div>
+
+		<div class="footer-menu last clearfix">
+			<h4>Language</h4>
+			<ul>
+				<li>
+					
+					
+	<div id="footer-language-selector-wrap" class="drop-menu-origin language-selector-wrap ieSucks">
+		<a href=/language id="footer-language-selector-anchor" class="drop-menu-link language-selector-anchor ieSucks">
+			<span  class="i-wrap ig-wrap-common i-dropdown-arrow-common-wrap ig-wrap-common-r dropdown-arrow"><i  class="i ig-common i-dropdown-arrow-common"></i> English</span>
+		</a>
+		<div id="footer-language-selector-menu" class="drop-menu language-selector-menu">
+				<ul>
+			<li>
+				<ul class="language-items">
+							<li>
+								<a href="http://www.yelp.dk/topic/oakland-toilet-seat-dilemma">Dansk (Danmark)</a>
+							</li>
+				</ul>
+			</li>
+			<li>
+				<ul class="language-items">
+							<li>
+								<a href="http://www.yelp.de/topic/oakland-toilet-seat-dilemma">Deutsch (Deutschland)</a>
+							</li>
+							<li>
+								<a href="http://de.yelp.ch/topic/oakland-toilet-seat-dilemma">Deutsch (Schweiz)</a>
+							</li>
+							<li>
+								<a href="http://www.yelp.at/topic/oakland-toilet-seat-dilemma">Deutsch (Österreich)</a>
+							</li>
+				</ul>
+			</li>
+			<li>
+				<ul class="language-items">
+							<li>
+								<a href="http://www.yelp.com.au/topic/oakland-toilet-seat-dilemma">English (Australia)</a>
+							</li>
+							<li>
+								<a href="http://en.yelp.be/topic/oakland-toilet-seat-dilemma">English (Belgium)</a>
+							</li>
+							<li>
+								<a href="http://www.yelp.ca/topic/oakland-toilet-seat-dilemma">English (Canada)</a>
+							</li>
+							<li>
+								<a href="http://www.yelp.ie/topic/oakland-toilet-seat-dilemma">English (Republic of Ireland)</a>
+							</li>
+							<li>
+								<a href="http://www.yelp.com.sg/topic/oakland-toilet-seat-dilemma">English (Singapore)</a>
+							</li>
+							<li>
+								<a href="http://en.yelp.ch/topic/oakland-toilet-seat-dilemma">English (Switzerland)</a>
+							</li>
+							<li>
+								<a href="http://www.yelp.co.uk/topic/oakland-toilet-seat-dilemma">English (United Kingdom)</a>
+							</li>
+							<li class="language-selector-selection">English (United States)</li>
+				</ul>
+			</li>
+			<li>
+				<ul class="language-items">
+							<li>
+								<a href="http://www.yelp.es/topic/oakland-toilet-seat-dilemma">Español (España)</a>
+							</li>
+				</ul>
+			</li>
+			<li>
+				<ul class="language-items">
+							<li>
+								<a href="http://fr.yelp.be/topic/oakland-toilet-seat-dilemma">Français (Belgique)</a>
+							</li>
+							<li>
+								<a href="http://fr.yelp.ca/topic/oakland-toilet-seat-dilemma">Français (Canada)</a>
+							</li>
+							<li>
+								<a href="http://www.yelp.fr/topic/oakland-toilet-seat-dilemma">Français (France)</a>
+							</li>
+							<li>
+								<a href="http://fr.yelp.ch/topic/oakland-toilet-seat-dilemma">Français (Suisse)</a>
+							</li>
+				</ul>
+			</li>
+			<li>
+				<ul class="language-items">
+							<li>
+								<a href="http://www.yelp.it/topic/oakland-toilet-seat-dilemma">Italiano (Italia)</a>
+							</li>
+							<li>
+								<a href="http://it.yelp.ch/topic/oakland-toilet-seat-dilemma">Italiano (Svizzera)</a>
+							</li>
+				</ul>
+			</li>
+			<li>
+				<ul class="language-items">
+							<li>
+								<a href="http://nl.yelp.be/topic/oakland-toilet-seat-dilemma">Nederlands (België)</a>
+							</li>
+							<li>
+								<a href="http://www.yelp.nl/topic/oakland-toilet-seat-dilemma">Nederlands (Nederland)</a>
+							</li>
+				</ul>
+			</li>
+			<li>
+				<ul class="language-items">
+							<li>
+								<a href="http://www.yelp.no/topic/oakland-toilet-seat-dilemma">Norsk (Norge)</a>
+							</li>
+				</ul>
+			</li>
+			<li>
+				<ul class="language-items">
+							<li>
+								<a href="http://www.yelp.pl/topic/oakland-toilet-seat-dilemma">Polski (Polska)</a>
+							</li>
+				</ul>
+			</li>
+			<li>
+				<ul class="language-items">
+							<li>
+								<a href="http://fi.yelp.fi/topic/oakland-toilet-seat-dilemma">Suomi (Suomi)</a>
+							</li>
+				</ul>
+			</li>
+			<li>
+				<ul class="language-items">
+							<li>
+								<a href="http://sv.yelp.fi/topic/oakland-toilet-seat-dilemma">Svenska (Finland)</a>
+							</li>
+							<li>
+								<a href="http://www.yelp.se/topic/oakland-toilet-seat-dilemma">Svenska (Sverige)</a>
+							</li>
+				</ul>
+			</li>
+			<li>
+				<ul class="language-items last">
+							<li>
+								<a href="http://www.yelp.com.tr/topic/oakland-toilet-seat-dilemma">Türkçe (Türkiye)</a>
+							</li>
+				</ul>
+			</li>
+	</ul>
+
+		</div>
+	</div>
+
+				</li>
+			</ul>
+		</div>
+	</div>
+
+				<ul id="a-z-biz-list" class="footer-list ieSucks">
+						<li class="first">Oakland Business Listings</li>
+							<li><a href="/sm/oakland-ca-us/num">#</a></li>
+							<li><a href="/sm/oakland-ca-us/a">A</a></li>
+							<li><a href="/sm/oakland-ca-us/b">B</a></li>
+							<li><a href="/sm/oakland-ca-us/c">C</a></li>
+							<li><a href="/sm/oakland-ca-us/d">D</a></li>
+							<li><a href="/sm/oakland-ca-us/e">E</a></li>
+							<li><a href="/sm/oakland-ca-us/f">F</a></li>
+							<li><a href="/sm/oakland-ca-us/g">G</a></li>
+							<li><a href="/sm/oakland-ca-us/h">H</a></li>
+							<li><a href="/sm/oakland-ca-us/i">I</a></li>
+							<li><a href="/sm/oakland-ca-us/j">J</a></li>
+							<li><a href="/sm/oakland-ca-us/k">K</a></li>
+							<li><a href="/sm/oakland-ca-us/l">L</a></li>
+							<li><a href="/sm/oakland-ca-us/m">M</a></li>
+							<li><a href="/sm/oakland-ca-us/n">N</a></li>
+							<li><a href="/sm/oakland-ca-us/o">O</a></li>
+							<li><a href="/sm/oakland-ca-us/p">P</a></li>
+							<li><a href="/sm/oakland-ca-us/q">Q</a></li>
+							<li><a href="/sm/oakland-ca-us/r">R</a></li>
+							<li><a href="/sm/oakland-ca-us/s">S</a></li>
+							<li><a href="/sm/oakland-ca-us/t">T</a></li>
+							<li><a href="/sm/oakland-ca-us/u">U</a></li>
+							<li><a href="/sm/oakland-ca-us/v">V</a></li>
+							<li><a href="/sm/oakland-ca-us/w">W</a></li>
+							<li><a href="/sm/oakland-ca-us/x">X</a></li>
+							<li><a href="/sm/oakland-ca-us/y">Y</a></li>
+							<li><a href="/sm/oakland-ca-us/z">Z</a></li>
+						<li>| <a href="/sm/oakland-ca-us-added">Newly Added</a></li>
+
+						<li>| <a href="/archived_topics/Oakland-CA">Talk Archive</a></li>
+				</ul>
+
+
+			<ul class="directory footer-list">
+				<li class="first"><strong>Site Map</strong></li>
+					<li> | <a href="/atlanta">Atlanta</a></li>
+					<li> | <a href="/austin">Austin</a></li>
+					<li> | <a href="/boston">Boston</a></li>
+					<li> | <a href="/chicago">Chicago</a></li>
+					<li> | <a href="/dallas">Dallas</a></li>
+					<li> | <a href="/denver">Denver</a></li>
+					<li> | <a href="/detroit">Detroit</a></li>
+					<li> | <a href="/honolulu">Honolulu</a></li>
+					<li> | <a href="/houston">Houston</a></li>
+					<li> | <a href="/la">Los Angeles</a></li>
+					<li> | <a href="/miami">Miami</a></li>
+					<li> | <a href="/minneapolis">Minneapolis</a></li>
+					<li> | <a href="/nyc">New York</a></li>
+					<li> | <a href="/philadelphia">Philadelphia</a></li>
+					<li> | <a href="/portland">Portland</a></li>
+					<li> | <a href="/sacramento">Sacramento</a></li>
+					<li> | <a href="/san-diego">San Diego</a></li>
+					<li> | <a href="/sf">San Francisco</a></li>
+					<li> | <a href="/san-jose">San Jose</a></li>
+					<li> | <a href="/seattle">Seattle</a></li>
+					<li> | <a href="/dc">Washington, DC</a></li>
+					<li> | <a href="/locations">More Cities</a></li>
+			</ul>
+	
+
+	<p class="copyright">
+			Copyright &copy; 2004-2012 Yelp Inc. Yelp logo and related marks are registered trademarks of Yelp. All rights reserved.
+	</p>
+
+</div>
+<!-- google_ad_section_end -->
+
+			<div style="display: none;" id="page-popups">
+			</div>
+		</div> 
+
+
+
+			
+
+				<script type="text/javascript">yelp.init.wrapper("yelp.init.base.widgets", {"initPopAddFriend": false, "deferROModeScanLinks": false, "initImageLoader": false, "initPopPM": false, "isReadOnly": false, "isLoggedIn": false, "initPopCompliments": false, "initPopBookmarkSignup": false});</script>
+
+	<script type="text/javascript">yelp.init.wrapper("yelp.ui.widget.clickGuidelinesNewWindow", null);</script>
+
+	<script type="text/javascript">yelp.init.wrapper("yelp.pages.www.talk.placeholder", {"input": "talk_query"});</script>
+
+
+
+<script type="text/javascript">
+	var ambassadorBadges = $$('.ambassador-badge');
+	ambassadorBadges.each(function(badge){
+		new yelp.ui.widget.Tooltip(badge, {delay: 800, doClick: true});
+	});
+
+
+</script>
+		
+		
+<script type="text/javascript">
+								(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = "http://www.google-analytics.com/ga.js";
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+
+
+</script>
+		
+			
+
+		
+<script type="text/javascript">
+							(function loadSpice(){
+			var img = new Image();
+			if (!document.webkitHidden) {
+				img.src = ['/sp', 'ice?', 'r=', "2a55cfc32dd7ada9", '&pagevis', '=0'].join('');
+			} else {
+				var spiced = false;
+				document.addEventListener('webkitvisibilitychange', function(){
+					if (document.webkitHidden || spiced) {
+						return;
+					}
+					spiced = true;
+					img.src = ['/s','pice', '?r=', "2a55cfc32dd7ada9", '&', 'pagevis=1'].join('');
+				});
+			}
+		})();
+
+
+</script>
+
+
+		
+<script type="text/javascript">
+		if (window.top !== window.self)
+		{
+			document.write('<img src=' + "http://www.yelp.com/iframeping?request_from=None" + ' alt="">')
+		}
+
+
+</script>
+
+
+			
+<script type="text/javascript">
+								yelp.async.Script.load((document.location.protocol == 'https:' ? 'https://sb' : 'http://b') + '.scorecardresearch.com/beacon.js', function() {
+					if (window.COMSCORE && window.COMSCORE['beacon']) {
+		window.COMSCORE['beacon']({"c15": "", "c3": "", "c2": 7130511, "c1": 2, "c6": "", "c5": "", "c4": ""});
+	}
+
+			});
+
+
+</script>
+		
+			<noscript>
+		<img src="http://b.scorecardresearch.com/p?cj=1&amp;c15=&amp;c3=&amp;c2=7130511&amp;c1=2&amp;c6=&amp;c5=&amp;c4=">
+	</noscript>
+
+
+
+		
+<script type="text/javascript">
+								(function () {
+				var d = new Image(1, 1);
+				d.onerror = d.onload = function () {
+					d.onerror = d.onload = null;
+				};
+				d.src = ["//secure-us.imrworldwide.com/cgi-bin/m?ci=us-804377h&cg=0&cc=1&si=", escape(window.location.href), "&rp=", escape(document.referrer), "&ts=compact&rnd=", (new Date()).getTime()].join('');
+			})();
+
+
+</script>
+				<noscript>
+				<img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-804377h&amp;cg=0&amp;cc=1&amp;ts=noscript" width="1" height="1" alt="">
+		</noscript>
+
+
+			<script type="text/javascript">yelp.init.wrapper("yelp.init.base.requireJS", {"scripts": [["//connect.facebook.net/en_US/all.js", "vendor.fb.joey"], ["http://s3-media3.ak.yelpcdn.com/assets/2/www/js/232629e60135/yelp/ui/widget/fb/fb-async.min.js", "yelp.ui.widget.fb.fb-async"]]});</script>
+
+			
+<script type="text/javascript">
+					yelp.hub.publish('dom.body.end', new Date());
+
+</script>
+		
+
+
+
+<script type="text/javascript">
+				yelp.config.csrf = {"FacebookJSONP": "0777d77b9b5b586d12f5930c8cb46fa3c85c130cfd0e08e7244d9227d6d10c87"};
+
+
+</script>
+		
+	</body>
+</html>

@@ -1,0 +1,43 @@
+To Do
+==============
+
+## DumpTruck
+
+I think there's a bug in dumptruck that I introduced in the zipping
+endeavour.
+
+    ======================================================================
+    ERROR: test_thought_experiment_defecate_public_clean (__main__.TestParticipant156)
+    ----------------------------------------------------------------------
+    Traceback (most recent call last):
+      File "tests.py", line 26, in setUp
+        qualtrics_to_sqlite(self.raw, DBNAME)
+      File "/home/tlevine/Documents/toilet-posture/v2/munge/qualtrics_to_sqlite.py", line 434, in qualtrics_to_sqlite
+        _thought_experiment(dt, row)
+      File "/home/tlevine/Documents/toilet-posture/v2/munge/qualtrics_to_sqlite.py", line 398, in _thought_experiment
+        dt.insert(e, 'thought.experiment')
+      File "/usr/lib/python2.7/site-packages/dumptruck/dumptruck.py", line 203, in insert
+        self.create_table(data, table_name)
+      File "/usr/lib/python2.7/site-packages/dumptruck/dumptruck.py", line 177, in create_table
+        converted_data = convert(data)
+      File "/usr/lib/python2.7/site-packages/dumptruck/convert.py", line 72, in convert
+        values = [row[k] for k in keys]
+    KeyError: 'cover_before'
+
+
+## Tompkins County
+
+The Tompkins County question seems to have reversed responses; the question
+is phrased such that a positive response indicates living in Tompkins County,
+
+> Did you live in Tompkins County during the last three months (the spring 2011 semester)?
+
+so most of the responses should be positive, but most of the responses are
+actually negative responses (coded 0 rather than 1).
+
+## Toilet seat position
+
+Six of the responses to the toilet seat position question are the empty string.
+How did that happen? I suspect that three are from people who did not consent
+and three are from people who didn't click the box because the questionnaire
+did not force completion of the question.
